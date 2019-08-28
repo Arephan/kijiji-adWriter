@@ -10,7 +10,7 @@ let options = {
 
 let params = {
     locationId: 0,  // Same as kijiji.locations.ONTARIO.OTTAWA_GATINEAU_AREA.OTTAWA
-    categoryId: 0,
+    categoryId: kijiji.categories.BUY_AND_SELL,
     sortByName: "dateDesc",  // Show the cheapest listings first
     keywords: "iphone"
 };
