@@ -18,7 +18,7 @@ const constants = require("./constants")
 
 function partOne(priceAmount, title, phoneNumber, description) {
     rStr = 
-    "postAdForm.priceAmount: " + priceAmount + "\n" +
+    "postAdForm.priceAmount: $(priceAmount)\n" +
     "postAdForm.title: " + title + " unlocked with 100% battery health" + "\n" + 
     "postAdForm.phoneNumber: " + phoneNumber + "\n" + 
     "postAdForm.adType: OFFER" + "\n" + 
