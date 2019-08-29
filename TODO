@@ -1,3 +1,43 @@
-It can now store all ads from canada
-So it can find popular areas for each province
-So it can write Kijiji Ads for each province
+It can now store all ads from canada [x]
+So it can find popular areas for each province [-]
+So it can write Kijiji Ads for each province [-]
+
+
+example ad: 
+
+PART1 (ABOUT)
+=============
+postAdForm.priceAmount: '230'
+postAdForm.title: iPhone 6 64gb unlocked with 100% battery health
+postAdForm.phoneNumber: 438 793 1474
+postAdForm.adType: OFFER
+postAdForm.priceType: FIXED
+postAdForm.attributeMap[forsaleby_s]: ownr
+postAdForm.description: Text 438 793 1474
+image_paths:
+- 1.JPG
+- 2.JPG
+
+PART2 (LOCATION)
+================
+postAdForm.city: "Montr\xE9al"
+postAdForm.province: "Qu\xE9bec"
+postAdForm.postalCode: H2J1G2
+postAdForm.addressCity: "Montr\xE9al"
+postAdForm.addressProvince: "Qu\xE9bec"
+postAdForm.addressPostalCode: H2J1G2
+postAdForm.geocodeLat: '45.5300536'
+postAdForm.geocodeLng: '-73.5909143'
+postAdForm.locationId: 1700281
+PostalLat: '45.5300536'
+PostalLng: '-73.5909143'
+locationLevel0: 80002
+
+PART3 (MISC)
+topAdDuration: '7'
+submitType: saveAndCheckout
+categoryId: 15
+
+PART4 (USERNAME)
+username: hanilk2006@gmail.com
+password: '200639'

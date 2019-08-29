@@ -7,6 +7,12 @@
     {
         "type": "node",
         "request": "launch",
+        "name": "adWriter.test.js",
+        "program": "${workspaceFolder}/adWriter.test.js"
+    },
+    {
+        "type": "node",
+        "request": "launch",
         "name": "index.js",
         "program": "${workspaceFolder}/index.js"
     },
