@@ -18,6 +18,8 @@ function writeUniqueAdsToDB(ads) {
             db.get('ads')
                 .push(ads[i])
                 .write()
+        } else {
+            console.log("duplicate found")
         }
     }
 }

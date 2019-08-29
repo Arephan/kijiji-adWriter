@@ -9,10 +9,10 @@ let options = {
 };
 
 let params = {
-    locationId: 0,  // Same as kijiji.locations.ONTARIO.OTTAWA_GATINEAU_AREA.OTTAWA
-    categoryId: kijiji.categories.BUY_AND_SELL,
+    locationId: kijiji.locations.QUEBEC.GREATER_MONTREAL.CITY_OF_MONTREAL,  // Same as kijiji.locations.ONTARIO.OTTAWA_GATINEAU_AREA.OTTAWA
+    categoryId: kijiji.categories.BUY_AND_SELL.PHONES,
     sortByName: "dateDesc",  // Show the cheapest listings first
-    keywords: "iphone"
+    keywords: 'iphone'
 };
 
 async function searchKijijiAndRecordUniqueAds(params, options) {
