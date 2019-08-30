@@ -29,9 +29,9 @@ function partOne(priceAmount, title, phoneNumber, description) {
         "postAdForm.attributeMap[forsaleby_s]: ownr" + "\n" +
         "postAdForm.description: " + description + "\n" +
         "image_paths:" + "\n" +
-        "- 1.JPG" + "\n" +
-        "- 2.JPG" + "\n" +
-        "- 3.JPG" + "\n"
+        "- ../../iphonePics/1.JPG" + "\n" +
+        "- ../../iphonePIcs/2.JPG" + "\n"
+
 
     return rStr
 }
