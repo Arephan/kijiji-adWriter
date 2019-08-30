@@ -1,6 +1,8 @@
 const scraper = require("./scraper")
 const dbHelper = require("./dbHelper")
+const adWriter = require("./adWriter")
 const kijiji = require("kijiji-scraper")
+const constants = require("./constants")
 
 // DB SETUP SWITCH
 let defaultDB = 1 
@@ -21,4 +23,9 @@ let params = {
     keywords: 'iphone'
 };
 
+// TO SCRAPE UNCOMMENT
 scraper.searchKijijiAndRecordUniqueAds(params, options)
+
+// TO MAKE ADS
+// let adsByLocations = dbHelper.getAdsByLocations()
+// adWriter.writeAds(adsByLocations, dbHelper.db.get('forSale').value()[0])

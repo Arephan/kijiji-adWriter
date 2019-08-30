@@ -1,12 +1,13 @@
 const low = require('lowdb')
 const FileSync = require('lowdb/adapters/FileSync')
 const kijijiLocationsTree = require('./kijijiLocationsTree')
+const constants = require('./constants')
 
 const adapter = new FileSync('db.json')
 const db = low(adapter)
 
 function setDefaults() {
-    db.defaults({ ads: [], locationsTree: kijijiLocationsTree.locationsTree})
+    db.defaults({ ads: [], locationsTree: kijijiLocationsTree.locationsTree, forSale: constants.forSale })
         .write()
 }
 
@@ -16,13 +17,39 @@ function writeUniqueAdsToDB(ads) {
             .find({ url: ads[i].url })
             .value()
         if (!adExists) {
-            db.get('ads')
-                .push(ads[i])
-                .write()
+            let city = ads[i].attributes.location.mapAddress.split(" ")[0].replace(",", "")
+            let province = ads[i].attributes.location.mapAddress.split(" ")[1]
+            let postalCode = ads[i].attributes.location.mapAddress.split(" ")[2]
+
+
+
+            // FIND KIJIJI AREA CODES
+            let cityCodes = findCityCodes(city)
+
+            if (cityCodes) {
+                ads[i].city = city
+                ads[i].postalCode = postalCode
+                ads[i].province = province
+                ads[i].locationId = cityCodes.locationId
+                ads[i].provinceLocationId = cityCodes.provinceLocationId
+                db.get('ads')
+                    .push(ads[i])
+                    .write()
+            }
         } else {
             console.log("duplicate found")
         }
     }
+}
+
+function findCityCodes(city) {
+    let allLocations = getAllLocations()
+    for (location of allLocations) {
+        if (location.subCityName.includes(city)) {
+            return location
+        }
+    }
+    return false
 }
 
 function getAllLocations() {
@@ -42,9 +69,10 @@ function getAllLocations() {
     return rArr
 }
 
+
 module.exports = {
     setDefaults: setDefaults,
     writeUniqueAdsToDB: writeUniqueAdsToDB,
     db: db,
-    getAllLocations: getAllLocations
+    getAllLocations: getAllLocations,
 } 

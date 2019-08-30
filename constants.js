@@ -1,5 +1,7 @@
 const forSale = [{
     name: "iphone",
+    phoneNumber: "438 793 1474‬",
+    
     types: [{ name: "iphone 6 16gb", price: 185 },
     { name: "iphone 6 32gb", price: 195 },
     { name: "iphone 6 64gb", price: 215 },
@@ -9,3 +11,7 @@ const forSale = [{
     colors: ["space grey", "rose gold", "silver", "gold"],
     
 }]
+
+module.exports = {
+    forSale: forSale
+}

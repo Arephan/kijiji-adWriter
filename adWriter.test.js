@@ -32,11 +32,13 @@ test("partOne function spits right amount of characters", () => {
     expect(str.length).toEqual(314)
     })
 
-// test("partTwo function spits right amount of characters", () => {
-//     adWriter.partTwo(exampleAd.attributes.location.mapAddress.slice(0,1),
-//     exampleAd.attributes.location.province,
-//     exampleAd.attributes.location.mapAddress.slice(-1,0),
-//     exampleAd.attributes.location.latitude,
-//     exampleAd.attributes.location.longitude,
-//     )
-// })
+test("partTwo function spits right amount of characters", () => {
+    let str = adWriter.partTwo(exampleAd.attributes.location.mapAddress.slice(0,1),
+    exampleAd.attributes.location.province,
+    exampleAd.attributes.location.mapAddress.slice(-1,0),
+    exampleAd.attributes.location.latitude,
+    exampleAd.attributes.location.longitude,
+    )
+
+    expect(str.length).toEqual(352)
+})
