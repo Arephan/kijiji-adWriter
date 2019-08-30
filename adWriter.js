@@ -4,6 +4,8 @@ const constants = require("./constants")
 const kijijiLocationTree = require("./kijijiLocationsTree")
 const fs = require('fs')
 const dbHelper = require('./dbHelper')
+const writeYamlFile = require('write-yaml-file')
+var mergeJSON = require("merge-json") ;
 // example ad: 
 
 // PART1 (ABOUT)
@@ -20,20 +22,18 @@ const dbHelper = require('./dbHelper')
 // - 2.JPG
 
 function partOne(priceAmount, title, phoneNumber, description) {
-    rStr =
-        "postAdForm.priceAmount: " + priceAmount + "\n" +
-        "postAdForm.title: " + title + " unlocked with 100% battery health" + "\n" +
-        "postAdForm.phoneNumber: " + phoneNumber + "\n" +
-        "postAdForm.adType: OFFER" + "\n" +
-        "postAdForm.priceType: FIXED" + "\n" +
-        "postAdForm.attributeMap[forsaleby_s]: ownr" + "\n" +
-        "postAdForm.description: " + description + "\n" +
-        "image_paths:" + "\n" +
-        "- ../../iphonePics/1.JPG" + "\n" +
-        "- ../../iphonePIcs/2.JPG" + "\n"
+    rObj = {
+        "postAdForm.priceAmount": priceAmount,
+        "postAdForm.title": title,
+        "postAdForm.phoneNumber": phoneNumber,
+        "postAdForm.adType": "OFFER",
+        "postAdForm.priceType": "FIXED",
+        "postAdForm.attributeMap[forsaleby_s]": "ownr",
+        "postAdForm.description": description,
+        "image_paths": ["../../../iphonePics/1.JPG", "../../../iphonePics/2.JPG"]
+    }
 
-
-    return rStr
+    return rObj
 }
 
 // PART2 (LOCATION)
@@ -51,26 +51,32 @@ function partOne(priceAmount, title, phoneNumber, description) {
 // PostalLng: '-73.5909143'
 // locationLevel0: 80002
 function partTwo(city, province, postalCode, lat, long, locationId, locationlevel0) {
-    rStr = "postAdForm.city: " + city + "\n" +
-        "postAdForm.province: " + province + "\n" +
-        "postAdForm.postalCode: " + postalCode + "\n" +
-        "postAdForm.addressCity: " + city + "\n" +
-        "postAdForm.addressProvince: " + province + "\n" +
-        "postAdForm.addressPostalCode: " + postalCode + "\n" +
-        "postAdForm.geocodeLat: " + lat + "\n" +
-        "postAdForm.geocodeLng: " + long + "\n" +
-        "postAdForm.locationId: " + locationId + "\n" +
-        "PostalLat: " + lat + "\n" +
-        "PostalLng: " + long + "\n" +
-        "locationLevel0: " + locationlevel0 + "\n"
-
-    return rStr
+    rObj = {
+        "postAdForm.city": city,
+        "postAdForm.province": province,
+        "postAdForm.postalCode": postalCode,
+        "postAdForm.addressCity": city,
+        "postAdForm.addressProvince": province,
+        "postAdForm.addressPostalCode": postalCode,
+        "postAdForm.geocodeLat": lat,
+        "postAdForm.geocodeLng": long,
+        "postAdForm.locationId": locationId,
+        "PostalLat": lat,
+        "PostalLng": long,
+        "locationLevel0": locationlevel0
+    }
+    return rObj
 }
 
 function partThree() {
-    let Str = "topAdDuration: '7' \nsubmitType: saveAndCheckout\ncategoryId: 15"
+    let rObj =
+    {
+        "topAdDuration": 7,
+        "submitType": "saveAndCheckout",
+        "categoryId": 15
+    }
 
-    return rStr
+    return rObj
 }
 
 function writeAds() {
@@ -106,9 +112,10 @@ function writeAd(ad, forSale) {
             // PART THREE
             let three = partThree()
 
-            let data = one + two + three
+            let adObj = mergeJSON.merge(one, two)
+            adObj = mergeJSON.merge(adObj, three)
 
-            let path = './ads/' + city + '/' + type.name
+            let path = './ads/' + city + '/' + type.dirName
 
             try {
                 fs.mkdirSync(path, { recursive: true })
@@ -116,12 +123,12 @@ function writeAd(ad, forSale) {
                 if (err.code !== 'EEXIST') throw err
             }
 
-                fs.writeFile(path+"/item.txt", data, (err) => {
-                    // In case of a error throw err. 
-                    if (err) throw err;
-                })
-                console.log('Saved!');
-        
+            path = path + '/item.yaml'
+
+            writeYamlFile(path, adObj).then(() => {
+                console.log('done')
+            })
+
         }
     }
     // PART ONE
