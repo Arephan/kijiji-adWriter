@@ -2,7 +2,7 @@ const scraper = require("./scraper")
 const dbHelper = require("./dbHelper")
 const kijiji = require("kijiji-scraper")
 
-// DB SETUP
+// DB SETUP SWITCH
 let defaultDB = 1 
 if (defaultDB) {
     dbHelper.setDefaults()

@@ -1,6 +1,7 @@
 // This module writes a directory for each subsection of Kijiji area
 
 const constants = require("./constants")
+const kijijiLocationTree = require("./kijijiLocationsTree")
 // example ad: 
 
 // PART1 (ABOUT)
@@ -18,7 +19,7 @@ const constants = require("./constants")
 
 function partOne(priceAmount, title, phoneNumber, description) {
     rStr = 
-    "postAdForm.priceAmount: $(priceAmount)\n" +
+    "postAdForm.priceAmount: " + priceAmount + "\n" +
     "postAdForm.title: " + title + " unlocked with 100% battery health" + "\n" + 
     "postAdForm.phoneNumber: " + phoneNumber + "\n" + 
     "postAdForm.adType: OFFER" + "\n" + 
@@ -47,6 +48,21 @@ function partOne(priceAmount, title, phoneNumber, description) {
 // PostalLat: '45.5300536'
 // PostalLng: '-73.5909143'
 // locationLevel0: 80002
+function partTwo(city, province, postalCode, lat, long, locationId, locationlevel0)
+{
+    rStr = "postAdForm.city: " + city + "\n" +
+    "postAdForm.province: " + province + "\n" +
+    "postAdForm.postalCode: " + postalCode + "\n" +
+    "postAdForm.addressCity: " + city + "\n" +
+    "postAdForm.addressProvince: " + province + "\n" +
+    "postAdForm.addressPostalCode: " + postalCode + "\n" +
+    "postAdForm.geocodeLat: " + lat + "\n" +
+    "postAdForm.geocodeLng: " + long + "\n" +
+    "postAdForm.locationId: " + locationId + "\n" +
+    "PostalLat: " +  lat + "\n" +
+    " PostalLng: " + long + "\n" +
+    "locationLevel0: " + locationlevel0 + "\n"
+}
 
 // PART3 (MISC)
 // topAdDuration: '7'
@@ -58,5 +74,6 @@ function partOne(priceAmount, title, phoneNumber, description) {
 // password: '200639'
 
 module.exports = { 
-    partOne: partOne
+    partOne: partOne,
+    partTwo: partTwo
 }

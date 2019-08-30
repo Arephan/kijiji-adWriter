@@ -1,11 +1,12 @@
 const low = require('lowdb')
 const FileSync = require('lowdb/adapters/FileSync')
+const kijijiLocationsTree = require('./kijijiLocationsTree')
 
 const adapter = new FileSync('db.json')
 const db = low(adapter)
 
 function setDefaults() {
-    db.defaults({ ads: [] })
+    db.defaults({ ads: [], locationsTree: kijijiLocationsTree.locationsTree})
         .write()
 }
 
@@ -24,8 +25,26 @@ function writeUniqueAdsToDB(ads) {
     }
 }
 
+function getAllLocations() {
+    rArr = []
+    for (x of db.get('locationsTree').value().children) {
+        for (y of x.children) {
+            for (z of y.children) {
+                rArr.push({
+                    provinceLocationId: y.id,
+                    provinceName: y.regionLabel,
+                    locationId: z.id,
+                    subCityName: z.nameEn
+                })
+            }
+        }
+    }
+    return rArr
+}
+
 module.exports = {
     setDefaults: setDefaults,
     writeUniqueAdsToDB: writeUniqueAdsToDB,
-    db: db
+    db: db,
+    getAllLocations: getAllLocations
 } 
