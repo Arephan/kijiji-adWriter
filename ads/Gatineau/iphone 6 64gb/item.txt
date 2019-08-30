@@ -1,0 +1,38 @@
+postAdForm.priceAmount: 215
+postAdForm.title: Get refurbished Unlocked iphone 6 64gb gold at Hundoiphone.com unlocked with 100% battery health
+postAdForm.phoneNumber: 438 793 1474‬
+postAdForm.adType: OFFER
+postAdForm.priceType: FIXED
+postAdForm.attributeMap[forsaleby_s]: ownr
+postAdForm.description: Buy now at hundoiphone.com
+image_paths:
+- 1.JPG
+- 2.JPG
+- 3.JPG
+postAdForm.city: Gatineau
+postAdForm.province: Ontario (M - Z)
+postAdForm.postalCode: J8R3Z6
+postAdForm.addressCity: Gatineau
+postAdForm.addressProvince: Ontario (M - Z)
+postAdForm.addressPostalCode: J8R3Z6
+postAdForm.geocodeLat: 45.5085201
+postAdForm.geocodeLng: -75.581997
+postAdForm.locationId: 1700186
+PostalLat: 45.5085201
+PostalLng: -75.581997
+locationLevel0: 1700184
+postAdForm.city: Gatineau
+postAdForm.province: Ontario (M - Z)
+postAdForm.postalCode: J8R3Z6
+postAdForm.addressCity: Gatineau
+postAdForm.addressProvince: Ontario (M - Z)
+postAdForm.addressPostalCode: J8R3Z6
+postAdForm.geocodeLat: 45.5085201
+postAdForm.geocodeLng: -75.581997
+postAdForm.locationId: 1700186
+PostalLat: 45.5085201
+PostalLng: -75.581997
+locationLevel0: 1700184
+4
+84
+

@@ -1,33 +1,1250 @@
 {
   "ads": [
     {
-      "title": "Brand New Sealed Samsung Galaxy S8 Plus",
-      "description": "Brand New Sealed Samsung Galaxy s8 plus Unlocked. Price $450. Call 416 616 2720\n\nCan Sraight Trade for your iphone 8 plus. Or Higher. Only",
-      "date": "2019-08-30T17:03:13.000Z",
-      "image": "https://i.ebayimg.com/00/s/NTQ4WDQ1MA==/z/UFkAAOSwZYRdaVaE/$_35.JPG",
+      "title": "Unlocked iPhone 5S Silver, 16 GB like new in box",
+      "description": "Unlocked iPhone 5S Silver, 16 GB like new in box\n\n\nCall 289 859 6356",
+      "date": "2019-08-30T17:52:20.000Z",
+      "image": "https://i.ebayimg.com/00/s/MjI1WDMwMA==/z/JAwAAOSwtkNdaWJE/$_35.JPG",
       "images": [
-        "https://i.ebayimg.com/00/s/NTQ4WDQ1MA==/z/UFkAAOSwZYRdaVaE/$_57.JPG"
+        "https://i.ebayimg.com/00/s/MjI1WDMwMA==/z/JAwAAOSwtkNdaWJE/$_57.JPG"
       ],
       "attributes": {
-        "phonebrand": "smsung",
+        "phonebrand": "apple",
+        "phonecarrier": "unlck",
+        "forsaleby": "ownr",
+        "price": 210,
+        "location": {
+          "latitude": 43.7913382,
+          "longitude": -79.35394810000003,
+          "mapAddress": "North York, ON M2J 4T6",
+          "province": "ontario",
+          "mapRadius": 117.95362808300035
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cell-phone/city-of-toronto/unlocked-iphone-5s-silver-16-gb-like-new-in-box/1456643409",
+      "city": "North",
+      "postalCode": "ON",
+      "province": "ontario",
+      "locationId": 1700278,
+      "provinceLocationId": 80002
+    },
+    {
+      "title": "Iphone 7 plus 32gb like new condition",
+      "description": "Matt black\nNo scratch\nVery clean like new\nBattery capacity 86\nComes with original box and charger and earpiece.",
+      "date": "2019-08-30T17:52:16.000Z",
+      "image": "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/FKcAAOSwgYpdaWHU/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/FKcAAOSwgYpdaWHU/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/MT8AAOSwgjddaWHV/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFg5MDA=/z/ajsAAOSwTbJdaWHW/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
         "phonecarrier": "unlck",
         "forsaleby": "ownr",
         "price": 450,
         "location": {
-          "latitude": 43.7580118,
-          "longitude": -79.40361150000001,
-          "mapAddress": "Toronto, ON M2N 0H1",
+          "latitude": 43.89269549999999,
+          "longitude": -79.43469809999999,
+          "mapAddress": "Richmond Hill, ON L4C9V2",
           "province": "ontario",
-          "mapRadius": 20.1038437272025
+          "mapRadius": 0
         },
         "type": "OFFER"
       },
-      "url": "https://www.kijiji.ca/v-cell-phone/city-of-toronto/brand-new-sealed-samsung-galaxy-s8-plus/1456632761",
+      "url": "https://www.kijiji.ca/v-cell-phone/markham-york-region/iphone-7-plus-32gb-like-new-condition/1456643397",
+      "city": "Richmond",
+      "postalCode": "ON",
+      "province": "ontario",
+      "locationId": 1700288,
+      "provinceLocationId": 80003
+    },
+    {
+      "title": "128GB Apple iPhone 6 Space Grey, like new, Unlocked",
+      "description": "128GB Apple iPhone 6 Space Grey, like new, Unlocked\n\n\nCall 289 859 6356",
+      "date": "2019-08-30T17:51:02.000Z",
+      "image": "https://i.ebayimg.com/00/s/MjI3WDMwMA==/z/ChMAAOSwUeldaWH2/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/MjI3WDMwMA==/z/ChMAAOSwUeldaWH2/$_57.JPG"
+      ],
+      "attributes": {
+        "forsaleby": "ownr",
+        "price": 480,
+        "location": {
+          "latitude": 43.7913382,
+          "longitude": -79.35394810000003,
+          "mapAddress": "North York, ON M2J 4T6",
+          "province": "ontario",
+          "mapRadius": 117.95362808300035
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-general-electronics/city-of-toronto/128gb-apple-iphone-6-space-grey-like-new-unlocked/1456643118",
+      "city": "North",
+      "postalCode": "ON",
+      "province": "ontario",
+      "locationId": 1700278,
+      "provinceLocationId": 80002
+    },
+    {
+      "title": "iPhone 8 Plus (64GB) unlocked (Otterbox case included)",
+      "description": "Great condition. Been in case for life of phone, 2 month old otter box symmetry case included in price.",
+      "date": "2019-08-30T17:50:35.000Z",
+      "image": "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/Wp4AAOSwpDRdaWF5/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/Wp4AAOSwpDRdaWF5/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/qTIAAOSwN9NdaWF-/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "unlck",
+        "forsaleby": "ownr",
+        "price": 625,
+        "location": {
+          "latitude": 43.7833997,
+          "longitude": -79.41605620000001,
+          "mapAddress": "Toronto, ON M2M4J1",
+          "province": "ontario",
+          "mapRadius": 0
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cell-phone/city-of-toronto/iphone-8-plus-64gb-unlocked-otterbox-case-included/1456643016",
       "city": "Toronto",
-      "postalCode": "M2N",
-      "province": "ON",
+      "postalCode": "M2M4J1",
+      "province": "ontario",
       "locationId": 1700273,
       "provinceLocationId": 1700272
+    },
+    {
+      "title": "iPhone 7",
+      "description": "Excellent condition iPhone 7, 32gb\nUnlocked\nComes with box and accessories except headphones",
+      "date": "2019-08-30T17:49:21.000Z",
+      "image": "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/HysAAOSwK1BdaWFv/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/HysAAOSwK1BdaWFv/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/84QAAOSwexxdaWFx/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "unlck",
+        "forsaleby": "ownr",
+        "price": 310,
+        "location": {
+          "latitude": 43.5561252,
+          "longitude": -79.7404256,
+          "mapAddress": "Mississauga, ON L5M7E3",
+          "province": "ontario",
+          "mapRadius": 0
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cell-phone/mississauga-peel-region/iphone-7/1456642749",
+      "city": "Mississauga",
+      "postalCode": "L5M7E3",
+      "province": "ontario",
+      "locationId": 1700276,
+      "provinceLocationId": 1700272
+    },
+    {
+      "title": "IPhone 6s 32GB Unlocked",
+      "description": "Selling a used 1.5 year old\n\niPhone 6s 32GB - Black/Space Grey\n\nUnlocked\n\nCondition - 7/10 (scuffs all around, screen is perfect and everything works)\n\nBattery Health - 91%\n\nIncludes - Original Box\n\nThe Price is Firm & Pick up is in Richmond Hill",
+      "date": "2019-08-30T17:48:49.000Z",
+      "image": "https://i.ebayimg.com/00/s/MTMzNFg3NTA=/z/8iUAAOSwT0ddaWFb/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/MTMzNFg3NTA=/z/8iUAAOSwT0ddaWFb/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/E2IAAOSw3nRdaWFf/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/cxAAAOSwJj5daWFj/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/3dAAAOSwAMJdaWFn/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/wuQAAOSwCbhdaWFs/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/YF4AAOSw4RNdaWFv/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/ZlIAAOSwTYJdaWF3/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/GxoAAOSw6IldaWF8/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/emoAAOSwl5NdaWGA/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "unlck",
+        "forsaleby": "ownr",
+        "price": 185,
+        "location": {
+          "latitude": 43.857485,
+          "longitude": -79.43022,
+          "mapAddress": "Richmond Hill, ON L4C0A5",
+          "province": "ontario",
+          "mapRadius": 0
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cell-phone/markham-york-region/iphone-6s-32gb-unlocked/1456642639",
+      "city": "Richmond",
+      "postalCode": "ON",
+      "province": "ontario",
+      "locationId": 1700288,
+      "provinceLocationId": 80003
+    },
+    {
+      "title": "Iphone 7 128 Gb",
+      "description": "Storage is 128 GB.\nNo issues with this phone.\nAsking 400 obo.",
+      "date": "2019-08-30T17:48:37.000Z",
+      "image": "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/E2cAAOSwkmZdaWFY/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/E2cAAOSwkmZdaWFY/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/PTwAAOSwswZdaWFe/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "unlck",
+        "forsaleby": "ownr",
+        "price": 400,
+        "location": {
+          "latitude": 45.4028559,
+          "longitude": -75.7011667,
+          "mapAddress": "Ottawa, ON K1S4E9",
+          "province": "ontario",
+          "mapRadius": 0
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cell-phone/ottawa/iphone-7-128-gb/1456642601",
+      "city": "Ottawa",
+      "postalCode": "K1S4E9",
+      "province": "ontario",
+      "locationId": 1700185,
+      "provinceLocationId": 1700184
+    },
+    {
+      "title": "iPhone 7Plus ",
+      "description": "Excellent condition iPhone 7Plus\nUnlocked\nComes with charging cable and case",
+      "date": "2019-08-30T17:48:06.000Z",
+      "image": "https://i.ebayimg.com/00/s/MTU5OVgxMjAw/z/-d8AAOSwW7FdaVsD/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/MTU5OVgxMjAw/z/-d8AAOSwW7FdaVsD/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTU5OVgxMjAw/z/szQAAOSw~QpdaVsE/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTU5OVgxMjAw/z/eZQAAOSww05daVsF/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTU5OVgxMjAw/z/IzIAAOSwvE1daVsH/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "unlck",
+        "forsaleby": "ownr",
+        "price": 380,
+        "location": {
+          "latitude": 43.5561252,
+          "longitude": -79.7404256,
+          "mapAddress": "Mississauga, ON L5M7E3",
+          "province": "ontario",
+          "mapRadius": 0
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cell-phone/mississauga-peel-region/iphone-7plus/1456642513",
+      "city": "Mississauga",
+      "postalCode": "L5M7E3",
+      "province": "ontario",
+      "locationId": 1700276,
+      "provinceLocationId": 1700272
+    },
+    {
+      "title": "Unlocked iPhone 8 Plus 64GB",
+      "description": "Selling iPhone 8 Plus 64gb. Works perfectly, just switched phones. Theres a fibreglass screen protector on it and it comes with box and unused charger. I have a case for it I can throw in.",
+      "date": "2019-08-30T17:47:11.000Z",
+      "image": "https://i.ebayimg.com/00/s/ODAwWDQ1MA==/z/bL4AAOSwOXldaWDq/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/ODAwWDQ1MA==/z/bL4AAOSwOXldaWDq/$_57.JPG",
+        "https://i.ebayimg.com/00/s/ODAwWDQ1MA==/z/JpcAAOSwTF1daWEK/$_57.JPG",
+        "https://i.ebayimg.com/00/s/NDUwWDgwMA==/z/s90AAOSwbIZdaWEZ/$_57.JPG",
+        "https://i.ebayimg.com/00/s/NDUwWDgwMA==/z/TYsAAOSwyLpdaWEe/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "unlck",
+        "forsaleby": "ownr",
+        "price": 750,
+        "location": {
+          "latitude": 43.897095,
+          "longitude": -78.86579,
+          "mapAddress": "Oshawa, ON, Canada, L1J 3E4",
+          "province": "ontario",
+          "mapRadius": 0
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cell-phone/oshawa-durham-region/unlocked-iphone-8-plus-64gb/1456642334",
+      "city": "Oshawa",
+      "postalCode": "Canada,",
+      "province": "ontario",
+      "locationId": 1700275,
+      "provinceLocationId": 1700272
+    },
+    {
+      "title": "✅ PROMO IPHONE 6 49$ 6S 59$ 7 plus 79$ X 149$ LCD CHANGE✅",
+      "description": "✅Réparation sur place, sans rdv!!!\n\nRéparation professionel et garantie 90 jours✅\n\n\non bat tous les prix dans la vente et la réparation de téléphones.\n\n\nRemplacement de nouvelle Batterie pour iPhone\n\n\niPhone 4= 25$\n\niPhone 5 / 5S / SE / 5C =25$\n\niPhone 6= 30$\n\niPhone 6S = 35$\n\nIPhone 7 = 39$\n\n\nVoici nos prix:\n\n\niPhone 4/4S 39$\n\niPhone 5 45$\n\niPhone 5C 45$\n\niPhone 5S 45$\n\niPhone 6 49$\n\niPhone 6 Plus - 59$\n\niPhone 6S - 59$\n\niPhone 6S Plus : 69$\n\niPhone 7 69$\n\niPhone 7 Plus 79$\n\nIPhone 8 69$\n\nIPhone 8 plus 89$\n\niPhone X 149$\n\n\nRemplacement du port de chargement\n\n\nIPhone 6 = 35$\n\nIPhone 6S= 40$\n\nSamsung s4 = 40$\n\nSamsung s5 = 50$\n\nSamsung s6 / s7 = 60$\n\nlg g3/g4/g5 = 40$\n\n\nRéparation d’écran iPads et iPod touch:\n\niPad 2 – 49.99$\n\niPad 3 – 49.99$\n\niPad 4 – 59.99$\n\niPad Mini –59.99$\n\niPad Air 1 – 69.99$\n\niPod touch 4 - 39.99$\n\niPod touch 5 - 99.99$\n\n\n***************************************\n\n\nRéparations d'écrans (LCD ) Samsung :\n\n\nSamsung S3 - 89$\n\nSamsung core 1 – 59$\n\nSamsung grand Prime – 59$\n\nSamsung J3- 129.99$\n\nSamsung J5 -139.99$\n\nSamsung A5 - 119$\n\nSamsung A5 2017 - 139$\n\nSamsung Note 3 – 149$\n\nSamsung Note 4 – 159$\n\nSamsung Note 5 – 210$\n\nSamsung S4 - 99$\n\nSamsung S5 -119$\n\nSAmsung s5 neo - 145$\n\nSamsung S6 - 169$\n\nSamsung S6 edge - 219$\n\nSamsung S6 edge Plus - 289$\n\nSamsung S7 -179$\n\nSamsung S7 edge - 239$\n\nSamsung S8 - 229$\n\nSamsung S8 Plus - 299$\n\nSAmsung s9 plus 319$\n\n\nRéparations d'écrans Samsung tablet\n\n\nSamsung tab T 110 - 60$\n\nSamsung tab T 330 - 60$\n\nSamsung tab T 350- 60$\n\nSamsung tab T 230 - 60$\n\nSamsung tab T 530 -60$\n\nSamsung tab T 210 -60$\n\nSamsung tab e 560 -65$\n\n\nRéparations d'écrans Sony Xperia :\n\n\nSony Xperia Z4 - 89$\n\nSony Xperia Z3 - 89$\n\nSony Xperia Z2 – 89$\n\nSony Xperia Z1 – 89$\n\nSony Xperia T3 – 99$\n\nSony Xperai XA – 99$\n\n\nRéparations d'écrans LG :\n\n\nLG Q6 - G6 119$\n\nLG G5 -99$\n\nLG G4 - 79$\n\nLG G3 - 79$\n\nLG G2 - 69$\n\nLG K4 – 89$\n\nLG K7 – 99$\n\nLG V20 - 129$\n\n\nRéparations d'écrans Nexus :\n\n\nNexus 6 P - 239$\n\nNexus 5 - 79$\n\nNexus 5 X - 109$\n\nNexus 4 - 89$\n\n\nRéparations HTC & MOTOROLA :\n\n\nHTC 626 – 89$\n\nHTC 510 – 89$\n\nHTC DESIRE 601 – 99$\n\nHTC M7 -99$\n\nHTC M9 -99$\n\nMOTO G – 69$\n\nMOTO G3 -69$\n\n\nVitre+LCD Alcatel :\n\n\nAlcatel idol 3 LCD 95$\n\nAlcatel idol 4 LCD 110$\n\nAlcatel idol mini LCD 95$\n\n\nVitre+LCD Google :\n\n\nGoogle Pixel LCD 130$\n\nGoogle Pixel XL LCD 170$\n\nPixel 2 159$\n\nPixel 2 xl 249$\n\nPixel 3 159$\n\nPixel 3 xl 199$\n\n\nVitre+LCD Huawei :\n\n\nHuawei GR5 LCD 90$\n\nHuawei Mate 8 LCD 100\n\nHuawei Mate 9 LCD 135$\n\nHuawei Nova Plus LCD 110$\n\nHuawei Y5 2nd Gen LCD 85$\n\nHuawei Y6 LCD 85$\n\nHuawei Y6 2nd Gen LCD 90$\n\nHuawei P10 LCD 90$\n\nHuawei P10 lite LCD 70$\n\nP10 plus 180$\n\nP20 179$\n\nP20 pro 359$\n\n\n3854boulevard Notre dame Laval coin cure-labelle\n\nCall now\n\n514 497-0954",
+      "date": "2019-08-30T17:52:45.000Z",
+      "image": "https://i.ebayimg.com/00/s/NDIwWDcwMA==/z/85QAAOSwmcNdaSTI/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/NDIwWDcwMA==/z/85QAAOSwmcNdaSTI/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "unlck",
+        "forsaleby": "delr",
+        "price": 50,
+        "location": {
+          "latitude": 45.54188629999999,
+          "longitude": -73.74537020000002,
+          "mapAddress": "Laval, QC H7V 1R7",
+          "province": "quebec",
+          "mapRadius": 50.88413973647907
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cellulaire/laval-rive-nord/promo-iphone-6-49-6s-59-7-plus-79-x-149-lcd-change/1456643485",
+      "city": "Laval",
+      "postalCode": "H7V",
+      "province": "quebec",
+      "locationId": 1700278,
+      "provinceLocationId": 80002
+    },
+    {
+      "title": "Kate Spade iPhone 6 case/card holder ",
+      "description": "Black with glitter iPhone 6 Kate Spade IPhone 6 case with card holder. Never used, perfect condition.",
+      "date": "2019-08-30T17:55:43.000Z",
+      "image": "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/ZycAAOSwPWNdaWLp/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/ZycAAOSwPWNdaWLp/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAw/z/X9gAAOSwGB1daWLs/$_57.JPG"
+      ],
+      "attributes": {
+        "forsaleby": "ownr",
+        "price": 20,
+        "location": {
+          "latitude": 45.2757473,
+          "longitude": -75.5965208,
+          "mapAddress": "Ottawa, ON K1X0A5",
+          "province": "ontario",
+          "mapRadius": 0
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cell-phone-accessories/ottawa/kate-spade-iphone-6-case-card-holder/1456644067",
+      "city": "Ottawa",
+      "postalCode": "K1X0A5",
+      "province": "Ontario (M - Z)",
+      "locationId": 1700185,
+      "provinceLocationId": 1700184
+    },
+    {
+      "title": "VIVEZ LA VRAI LIBERTÉ WIRELESS=>ÉCOUTEURS BOSE SOUNDSPORT FREE !",
+      "description": "Écouteurs true wireless meilleurs que Beats Powerbeats Pro Sennheiser Jabra Elite Bragi AirPods Jaybird Sony et parfait duo avec Apple iPad Air iPhone iPod Touch Samsung Galaxy Tab Note Microsoft.\n\nBonjour, je mets en vente mes écouteurs in-ear true wireless (sans-fil total) marque Bose modèle Soundsport Free — raison de la vente acheté principalement pour écouter ma musique en vélo mais avec le resserrement de la règlementation routière j’ai pogné un ticket alors je vends mes écouteurs pour payer le ticket et la facture de mon nouveau compagnon audio en vélo, un mini haut-parleur Bluetooth ! — donc mes écouteurs à vendre sont haut de gamme de la réputée marque américaine Bose — authentique et 100% fonctionnel, très très propre, état 10/10 — son excellent, basses très profondes et fermes et les aigus-médium bien définis, beaucoup de puissance et de clarté — aucun fil ne relie les écouteurs entre eux ni au lecteur numérique, donc une liberté totale de mouvement — 15 heures totales d’autonomie sur 3 périodes (5 heures pour les écouteurs (1 charge complète) et 10 heures supplémentaires (2 charges complètes) via le casier rechargeable inclus dans la vente) — très confortable avec un choix de grosseurs de paires d’embouts — atténue sensiblement les bruits ambiants par la technologie d’isolation acoustique passive (pas besoin de batterie) de par sa forme de bouchon — tous les boutons de contrôle (volume, piste suivante, piste précédente, pause, etc.) sont sur l’oreillette droite et doté d'un micro pour la prise d'appels téléphoniques — application Bose Connect pour iOS et Android (voir 5e photo pour avoir une idée de l’application sur iPhone) — l’ensemble comprend le case de recharge et de rangement original de Bose — de même que le câble USB de recharge original de Bose — de même que les paires d’embouts dans leurs plastiques — de même que tous les petits manuels d’utilisation — le tout dans les boîtes en carton originales avec la FACTURE que je vous remets à l’achat — donc des écouteurs de grande qualité, je demande 195$ pour le tout, et je répète absolument comme neufs, valeur de 287,43$, donc un gros 100$ de rabais — Salutations !",
+      "date": "2019-08-30T17:55:15.000Z",
+      "image": "https://i.ebayimg.com/00/s/MTEzMVgxNjAw/z/sg4AAOSwkl9daWK5/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/MTEzMVgxNjAw/z/sg4AAOSwkl9daWK5/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxNTcx/z/-v4AAOSwL8BdaWLE/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTM2MFgxNjAw/z/~hEAAOSwSVRdaWLP/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTI3N1gxNjAw/z/sPwAAOSwasZdaWLV/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/mfMAAOSwAUJdaWLe/$_57.JPG"
+      ],
+      "attributes": {
+        "forsaleby": "ownr",
+        "price": 195,
+        "location": {
+          "latitude": 45.5436512,
+          "longitude": -73.5772654,
+          "mapAddress": "Montréal, QC H1Y1V8",
+          "province": "quebec",
+          "mapRadius": 0
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-casque-decoute/ville-de-montreal/vivez-la-vrai-liberte-wireless-ecouteurs-bose-soundsport-free/1456643994",
+      "city": "Montréal",
+      "postalCode": "H1Y1V8",
+      "province": "Québec",
+      "locationId": 1700281,
+      "provinceLocationId": 80002
+    },
+    {
+      "title": "✅RÉPARATION cellulaire en 15min Vitre iPhone 6 49$ X 149$✅iPad 4",
+      "description": "Répare: iphone x 8 5 5s 6 7 phone shop Samsung s8 note 8 plus s4 s5 s3 s6 s5 lg g3 g5 g4 htc ipad air mini sony google\n\n\nRéparation professionel et garantie 90 jours!\n\n\non bat tous les prix dans la vente et la réparation de téléphones.\n\n\n✅on débloque vos iPhone à 19.99$ ( rogers bell fido telus koodo videotron) on débloque aussi vos samsung à 15$✅\n\n\n⭐️Venez directement à notre magasin on fait les reprations sur place sans rdv!⭐️\n\n✅3854-Boulevard Notre dame coin curé-labelle Laval✅\n\n\nVoici nos prix:\n\n\niPhone 4/4S 39$\n\niPhone 5 45$\n\niPhone 5C 45$\n\niPhone 5S 45$\n\niPhone 6 49$\n\niPhone 6 Plus - 59$\n\niPhone 6S - 69$\n\niPhone 6S Plus : 79$\n\niPhone 7 79$\n\niPhone 7 Plus 99$\n\niPhone 8 99$\n\niPhone 8 Plus\n\n\nRemplacement de nouvelle Batterie pour iPhone\n\niPhone 4= 20$\n\niPhone 5 / 5S / SE / 5C =25$\n\niPhone 6= 30$\n\niPhone 6S = 35$\n\n\nRéparation d’écran iPads et iPod touch:\n\n\niPad 2 – 49.99$\n\niPad 3 – 49.99$\n\niPad 4 – 59.99$\n\niPad Mini –59.99$\n\niPad Air 1 – 69.99$\n\niPod touch 4 - 39.99$\n\niPod touch 5 - 99.99$\n\n\n***************************************\n\nRemplacement du port de charge :\n\n\niPhone 5: 30$\n\niPhone 6: 35$\n\niPhone 6S : 40$\n\nSamsung S4 : 40$\n\nSamsung S5 : 49$\n\nSamsung S6 : 60$\n\nSamsung S7 : 70$\n\nSamsung note 5 : 80$\n\n\nRéparations d'écrans (LCD ) Samsung :\n\n\nSamsung S3 - 89$\n\nSamsung core 1 – 59$\n\nSamsung grand Prime – 59$\n\nSamsung J3- 119$\n\nSamsung J5 -139.99$\n\nSamsung A5 - 119$\n\nSamsung A5 2017 - 159$\n\nSamsung Note 3 – 169$\n\nSamsung Note 4 – 169$\n\nSamsung S4 - 99$\n\nSamsung S5 -119$\n\nSamsung S5 neo - 145$\n\nSamsung S6 - 179$\n\nSamsung S6 edge - 219$\n\nSamsung S6 edge Plus - 299$\n\nSamsung S7 -199$\n\nSamsung S7 edge - 279$\n\nSamsung S8 - 240$\n\nSamsung S8 Plus - 340$\n\n\nRéparations d'écrans Samsung tablet\n\n\nSamsung tab T 110 - 60$\n\nSamsung tab T 330 - 60$\n\nSamsung tab T 350- 60$\n\nSamsung tab T 230 - 60$\n\nSamsung tab T 530 -60$\n\nSamsung tab T 210 -60$\n\nSamsung tab e 560 -65$\n\n\nRéparations d'écrans Sony Xperia :\n\n\nSony Xperia Z4 - 89$\n\nSony Xperia Z3 - 99$\n\nSony Xperia Z2 – 89$\n\nSony Xperia Z1 – 99$\n\nSony Xperia T3 – 89$\n\nSony Xperai XA – 89$\n\n\nRéparations d'écrans LG :\n\n\nLG G6 / Q6 - 139$\n\nLG V20 - 129$\n\nLG G5 -99$\n\nLG G4 - 79$\n\nLG G3 - 79$\n\nLG G2 - 69$\n\nLG K4 – 89$\n\nLG K7 – 99$\n\n\nRéparations d'écrans Nexus :\n\n\nNexus 6 P - 239$\n\nNexus 5 - 79$\n\nNexus 5 X - 109$\n\nNexus 4 - 89$\n\n\nRéparations HTC & MOTOROLA :\n\n\nHTC 626 – 89$\n\nHTC 510 – 99$\n\nHTC DESIRE 601 – 109$\n\nHTC M7 -119$\n\nHTC M9 -99$\n\nMOTO G – 69$\n\nMOTO G3 -69$\n\nMOTO X PLAY – 99$\n\n\nadresse:\n\n3854-Boulevard Notre dame coin curé-labelle Laval\n\nOuvert De 10am a 19h\n\n514-245-4757",
+      "date": "2019-08-30T17:54:30.000Z",
+      "image": "https://i.ebayimg.com/00/s/NDUwWDgwMA==/z/lOQAAOSwjrNdZAkY/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/NDUwWDgwMA==/z/lOQAAOSwjrNdZAkY/$_57.JPG"
+      ],
+      "attributes": {
+        "tabletbrand": "apple",
+        "forsaleby": "delr",
+        "price": 49,
+        "location": {
+          "latitude": 45.5418279,
+          "longitude": -73.74237519999997,
+          "mapAddress": "Laval, QC H7V 1R1",
+          "province": "quebec",
+          "mapRadius": 145.8314235335582
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-ipads-tablettes/laval-rive-nord/reparation-cellulaire-en-15min-vitre-iphone-6-49-x-149-ipad-4/1456643831",
+      "city": "Laval",
+      "postalCode": "H7V",
+      "province": "Québec",
+      "locationId": 1700278,
+      "provinceLocationId": 80002
+    },
+    {
+      "title": "✅Phone LCD Repair ON THE SPOT 15 Min✅IPhone 6 49$ et X 149$",
+      "description": "iphone x 8 5 5s 6 7 Samsung s8 note 8 plus s4 s5 s3 s6 s5 lg g3 g5 g4 htc ipad air sony google\n\n\nRéparation professionel et garantie!\n\n\non bat tous les prix dans la vente et la réparation de téléphones.\n\n\n✅on débloque vos iPhone à 19.99$ ( rogers bell fido telus koodo videotron) on débloque aussi vos samsung à 15$✅\n\n\n⭐️Venez directement à notre magasin on fait les reprations sur place sans rdv!⭐️\n\n✅3854-Boulevard Notre dame coin curé-labelle Laval✅\n\n\nVoici nos prix:\n\n\niPhone 4/4S 39$\n\niPhone 5 45$\n\niPhone 5C 45$\n\niPhone 5S 45$\n\niPhone 6 49$\n\niPhone 6 Plus 59$\n\niPhone 6S 59$\n\niPhone 6S Plus 69$\n\niPhone 7 69$\n\niPhone 7 Plus 79$\n\niPhone 8 79$\n\niPhone 8 Plus 89$\n\nIPhone X 149$\n\n\nRemplacement de nouvelle Batterie pour iPhone\n\niPhone 4= 20$\n\niPhone 5 / 5S / SE / 5C =25$\n\niPhone 6= 30$\n\niPhone 6S = 35$\n\n\nRéparation d’écran iPads et iPod touch:\n\n\niPad 2 – 49.99$\n\niPad 3 – 49.99$\n\niPad 4 – 59.99$\n\niPad Mini –59.99$\n\niPad Air 1 – 69.99$\n\niPod touch 4 - 39.99$\n\niPod touch 5 - 99.99$\n\n\n***************************************\n\nRemplacement du port de charge :\n\n\niPhone 5: 30$\n\niPhone 6: 35$\n\niPhone 6S : 40$\n\nSamsung S4 : 40$\n\nSamsung S5 : 49$\n\nSamsung S6 : 60$\n\nSamsung S7 : 70$\n\nSamsung note 5 : 80$\n\n\nRéparations d'écrans (LCD ) Samsung :\n\n\nSamsung S3 - 89$\n\nSamsung core 1 – 59$\n\nSamsung grand Prime – 59$\n\nSamsung J3- 119$\n\nSamsung J5 -139.99$\n\nSamsung A5 - 119$\n\nSamsung A5 2017 - 159$\n\nSamsung Note 3 – 159$\n\nSamsung Note 4 – 169$\n\nSamsung S4 - 99$\n\nSamsung S5 -119$\n\nSamsung S5 neo - 149$\n\nSamsung S6 - 199$\n\nSamsung S6 edge - 219$\n\nSamsung S6 edge Plus - 279$\n\nSamsung S7 -210$\n\nSamsung S7 edge - 279$\n\nSamsung S8 - 259$\n\nSamsung S8 Plus - 339$\n\n\nRéparations d'écrans Samsung tablet\n\n\nSamsung tab T 110 - 60$\n\nSamsung tab T 330 - 60$\n\nSamsung tab T 350- 60$\n\nSamsung tab T 230 - 60$\n\nSamsung tab T 530 -60$\n\nSamsung tab T 210 -60$\n\nSamsung tab e 560 -65$\n\n\nRéparations d'écrans Sony Xperia :\n\n\nSony Xperia Z4 - 89$\n\nSony Xperia Z3 - 99$\n\nSony Xperia Z2 – 89$\n\nSony Xperia Z1 – 99$\n\nSony Xperia T3 – 89$\n\nSony Xperai XA – 89$\n\n\nRéparations d'écrans LG :\n\n\nLG G6 / Q6 - 139$\n\nLG V20 - 129$\n\nLG G5 -79$\n\nLG G4 - 79$\n\nLG G3 - 79$\n\nLG G2 - 69$\n\nLG K4 – 89$\n\nLG K7 – 99$\n\n\nRéparations d'écrans Nexus :\n\n\nNexus 6 P - 239$\n\nNexus 5 - 79$\n\nNexus 5 X - 109$\n\nNexus 4 - 89$\n\n\nRéparations HTC & MOTOROLA :\n\n\nHTC 626 – 89$\n\nHTC 510 – 99$\n\nHTC DESIRE 601 – 109$\n\nHTC M7 -119$\n\nHTC M9 -99$\n\nMOTO G – 69$\n\nMOTO G3 -69$\n\nMOTO X PLAY – 99$\n\n\nadresse:\n\n3854-Boulevard Notre dame coin curé-labelle Laval\n\nOuvert De 10am a 19h\n\n514-245-4757",
+      "date": "2019-08-30T17:54:30.000Z",
+      "image": "https://i.ebayimg.com/00/s/MzIwWDMyMA==/z/46oAAOSwFKtdZAet/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/MzIwWDMyMA==/z/46oAAOSwFKtdZAet/$_57.JPG"
+      ],
+      "attributes": {
+        "tabletbrand": "apple",
+        "forsaleby": "delr",
+        "price": 50,
+        "location": {
+          "latitude": 45.5418279,
+          "longitude": -73.74237519999997,
+          "mapAddress": "Laval, QC H7V 1R1",
+          "province": "quebec",
+          "mapRadius": 145.8314235335582
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-ipads-tablettes/laval-rive-nord/phone-lcd-repair-on-the-spot-15-min-iphone-6-49-et-x-149/1456643828",
+      "city": "Laval",
+      "postalCode": "H7V",
+      "province": "Québec",
+      "locationId": 1700278,
+      "provinceLocationId": 80002
+    },
+    {
+      "title": "iPhone 7 8 Plus 5S 6S Plus X 8 lg g7 one huwaei p30 + garantie",
+      "description": "Ig s4 s5 s6 s7 lg g5 g3 g5 g6\n\n\nAdresse :⭐️Megatronic Laval⭐️ 3854-Boulevard Notre dame coin curé-labelle Ouvert du\n\nLundi au Vendredi :10h à 19h\n\nsamedi Dimanche: 10h a 17h\n\n\n✅nos telephones sont garantie!! Acheter avec confiance !! Aucun téléphones Blacklist ou bloqué iCloud✅\n\n\n✅nos téléphones sont débloquer✅ fonctionne partout dans le monde\n\n\n✅PROMO de la semaine✅\n\n- Huawei P30 comme neuf 679$\n\n- Huawei P20 comme neuf 379$\n\n- Huawei P10 lite comme neuf 199$\n\n- Lg g7 one 349$ comme neuf\n\n- Google pixel 1 189$\n\n- Google pixel 1 xl 239$\n\n- Google pixel 2 349$\n\n- Google pixel 3 comme neuf 549$\n\n- Google pixel 3 xl comme neuf 619$\n\n- LG G5 149$\n\n- Lg g6 219$\n\n- Lg flip 49$\n\n- Blackberry curve 39$\n\n- Samsung j3 129$\n\n- Samsung s4 139$\n\n- Samsung s5 159$\n\n- Samsung s6 199$\n\n- Samsung A5 2017 210$\n\n- Samsung a8 2018 269$\n\n- Samsung note 4 229$\n\n- Samsung s7 259$\n\n- Samsung s7 edge 329$\n\n- Samsung s8 399$\n\n- Samsung s8 Plus 459$\n\n- Samsung s9 499$\n\n- iPhone 5c 119$\n\n- iPhone 5S 139$\n\n- iPhone SE 159$\n\nIPhone 6 199$\n\nIPhone 6 64GB 239$\n\nIPhone 6S 32gb 249$\n\nIPhone 6S 64GB 269$\n\nIPhone 6S 128gb 299$\n\niPhone 7 299$\n\nIPhone 7 Plus 419$\n\nIPhone 8 469$\n\nIPhone 8 Plus 64GB 599$\n\n\nnew Samsung A20 dual sim : 259$\n\nNew Samsung A30 dual sim : 339$\n\nnew Samsung A70 dual sim : 539$\n\n\nadresse:\n\n3854-Boulevard Notre dame coin curé-labelle Laval\n\n514-245-4757",
+      "date": "2019-08-30T17:54:30.000Z",
+      "image": "https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/14kAAOSwkXVdZAhU/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/14kAAOSwkXVdZAhU/$_57.JPG"
+      ],
+      "attributes": {
+        "tabletbrand": "apple",
+        "forsaleby": "delr",
+        "price": 299,
+        "location": {
+          "latitude": 45.5418279,
+          "longitude": -73.74237519999997,
+          "mapAddress": "Laval, QC H7V 1R1",
+          "province": "quebec",
+          "mapRadius": 145.8314235335582
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-ipads-tablettes/laval-rive-nord/iphone-7-8-plus-5s-6s-plus-x-8-lg-g7-one-huwaei-p30-garantie/1456643832",
+      "city": "Laval",
+      "postalCode": "H7V",
+      "province": "Québec",
+      "locationId": 1700278,
+      "provinceLocationId": 80002
+    },
+    {
+      "title": "iPhone 7 8 Plus 5S 6S Plus X 8 lg g7 one huwaei p30 + garantie",
+      "description": "Ig s4 s5 s6 s7 lg g5 g3 g5 g6\n\n\nAdresse :⭐️Megatronic Laval⭐️ 3854-Boulevard Notre dame coin curé-labelle Ouvert du\n\nLundi au Vendredi :10h à 19h\n\nsamedi Dimanche: 10h a 17h\n\n\n✅nos telephones sont garantie!! Acheter avec confiance !! Aucun téléphones Blacklist ou bloqué iCloud✅\n\n\n✅nos téléphones sont débloquer✅ fonctionne partout dans le monde\n\n\n✅PROMO de la semaine✅\n\n- Huawei P30 comme neuf 679$\n\n- Huawei P20 comme neuf 379$\n\n- Huawei P10 lite comme neuf 199$\n\n- Lg g7 one 349$ comme neuf\n\n- Google pixel 1 189$\n\n- Google pixel 1 xl 239$\n\n- Google pixel 2 349$\n\n- Google pixel 3 comme neuf 549$\n\n- Google pixel 3 xl comme neuf 619$\n\n- LG G5 149$\n\n- Lg g6 219$\n\n- Lg flip 49$\n\n- Blackberry curve 39$\n\n- Samsung j3 129$\n\n- Samsung s4 139$\n\n- Samsung s5 159$\n\n- Samsung s6 199$\n\n- Samsung A5 2017 210$\n\n- Samsung a8 2018 269$\n\n- Samsung note 4 229$\n\n- Samsung s7 259$\n\n- Samsung s7 edge 329$\n\n- Samsung s8 399$\n\n- Samsung s8 Plus 459$\n\n- Samsung s9 499$\n\n- iPhone 5c 119$\n\n- iPhone 5S 139$\n\n- iPhone SE 159$\n\nIPhone 6 199$\n\nIPhone 6 64GB 239$\n\nIPhone 6S 32gb 249$\n\nIPhone 6S 64GB 269$\n\nIPhone 6S 128gb 299$\n\niPhone 7 299$\n\nIPhone 7 Plus 419$\n\nIPhone 8 469$\n\nIPhone 8 Plus 64GB 599$\n\n\nnew Samsung A20 dual sim : 259$\n\nNew Samsung A30 dual sim : 339$\n\nnew Samsung A70 dual sim : 539$\n\n\nadresse:\n\n3854-Boulevard Notre dame coin curé-labelle Laval\n\n514-245-4757",
+      "date": "2019-08-30T17:54:30.000Z",
+      "image": "https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/14kAAOSwkXVdZAhU/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/14kAAOSwkXVdZAhU/$_57.JPG"
+      ],
+      "attributes": {
+        "tabletbrand": "apple",
+        "forsaleby": "delr",
+        "price": 299,
+        "location": {
+          "latitude": 45.5418279,
+          "longitude": -73.74237519999997,
+          "mapAddress": "Laval, QC H7V 1R1",
+          "province": "quebec",
+          "mapRadius": 145.8314235335582
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-ipads-tablettes/laval-rive-nord/iphone-7-8-plus-5s-6s-plus-x-8-lg-g7-one-huwaei-p30-garantie/1456643834",
+      "city": "Laval",
+      "postalCode": "H7V",
+      "province": "Québec",
+      "locationId": 1700278,
+      "provinceLocationId": 80002
+    },
+    {
+      "title": "iPhone 6, 64gb Silver and white ",
+      "description": "Perfect condition iPhone 6 (Telus). 64gb. No damage.",
+      "date": "2019-08-30T17:53:55.000Z",
+      "image": "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/YWwAAOSwA-BdaWJc/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/YWwAAOSwA-BdaWJc/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/jkoAAOSwVTFdaWJg/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "telus",
+        "forsaleby": "ownr",
+        "price": 250,
+        "location": {
+          "latitude": 45.2757473,
+          "longitude": -75.5965208,
+          "mapAddress": "Ottawa, ON K1X0A5",
+          "province": "ontario",
+          "mapRadius": 0
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cell-phone/ottawa/iphone-6-64gb-silver-and-white/1456643706",
+      "city": "Ottawa",
+      "postalCode": "K1X0A5",
+      "province": "Ontario (M - Z)",
+      "locationId": 1700185,
+      "provinceLocationId": 1700184
+    },
+    {
+      "title": "✅Réparation iPhone Samsung lg au Meilleur prix! LCD IPhone 39$✅",
+      "description": "Iphone 5S 6S 7 X plus ipad mini samsung s4 s5 s6 s7 s9 lg g3 g4 g5\n\nVenez directement à Notre magasin: 3854boulevard Notre dame Laval coin cure-labelle\n\nRéparation sur place, sans rdv avec une garantie de 90 jours!\n\n✅Promo déblocage Samsung LG HTC a 14.99$✅ compte google : 39$\n\nDéblocage iPhone ✅ :rogers bell telus koodo bell videotron): 19.99$\n\nRéparation professionel et garantie 90 jours!\n\non bat tous les prix dans la vente et la réparation de téléphones.\n\nPrix remplacement LCD :\n\niPhone 4/4S 39$\niPhone 5 45$\niPhone 5C 45$\niPhone 5S 45$\niPhone 6 49$\niPhone 6 Plus - 59$\niPhone 6S - 59$\niPhone 6S Plus 69$\niPhone 7 69$\niPhone 7 Plus 79$\niPhone 8 69$\niPhone 8 Plus 89$\niPhone X 149$\n\n\nRemplacement de Batterie pour iPhone\n\niPhone 4= 25$\niPhone 5 / 5S / SE / 5C =25$\niPhone 6= 30$\niPhone 6 Plus=35$\niPhone 6S = 35$\nIPhone 7 = 40$\n\n\nRemplacement du port de chargement\n\nIPhone 6 = 35$\nIPhone 6S= 40$\nIPhone 7= 59$\nSamsung s4 = 40$\nSamsung s5 = 50$\nSamsung s6 / s7 = 60$\nLG G3: 39$\nLG G4 : 39$\nLG G5 : 39$\n\n\nRéparation d’écran iPads et iPod touch:\niPad 2 – 49.99$\niPad 3 – 49.99$\niPad 4 – 49.99$\niPad Mini 1-2 59.99$\niPad Air 1 – 69.99$\niPad 5 - 79.99$\niPod touch 4 - 39.99$\niPod touch 5 - 99.99$\n\n***************************************\n\nRéparations d'écrans (LCD ) Samsung :\n\nSamsung S3 - 89$\nSamsung core 1 – 59$\nSamsung grand Prime – 59$\nSamsung J3- 129.99$\nSamsung J5 -139.99$\nSamsung A5 - 119$\nSamsung A5 2017 - 169$\nSamsung Note 3 – 169$\nSamsung Note 4 – 169$\nSamsung Note 5 – 220$\nSamsung S4 - 99$\nSamsung S5 -119$\nSAmsung s5 neo - 145$\nSamsung S6 - 179$\nSamsung S6 edge - 219$\nSamsung S6 edge Plus - 289$\nSamsung S7 -199$\nSamsung S7 edge - 259$\nSamsung S8 - 239$\nSamsung S8 Plus - 329$\nSAmsung s9 plus 319$\n\nRéparations d'écrans Samsung tablet\n\nSamsung tab T 110 - 60$\nSamsung tab T 330 - 60$\nSamsung tab T 350- 60$\nSamsung tab T 230 - 60$\nSamsung tab T 530 -60$\nSamsung tab T 210 -60$\nSamsung tab e 560 -65$\n\nRéparations d'écrans Sony Xperia :\n\nSony Xperia Z4 - 89$\nSony Xperia Z3 - 89$\nSony Xperia Z2 – 89$\nSony Xperia Z1 – 89$\nSony Xperia T3 – 99$\nSony Xperai XA – 99$\n\nRéparations d'écrans LG :\n\nLG Q6 - G6 119$\nLG G5 -99$\nLG G4 - 79$\nLG G3 - 79$\nLG G2 - 69$\nLG K4 – 89$\nLG K7 – 99$\nLG V20 - 129$\n\nRéparations d'écrans Nexus :\n\nNexus 6 P - 239$\nNexus 5 - 79$\nNexus 5 X - 109$\nNexus 4 - 89$\n\nRéparations HTC & MOTOROLA :\n\nHTC 626 – 89$\nHTC 510 – 89$\nHTC DESIRE 601 – 99$\nHTC M7 -99$\nHTC M9 -99$\nMOTO G – 69$\nMOTO G3 -69$\n\nVitre+LCD Alcatel :\n\nAlcatel idol 3 LCD 95$\nAlcatel idol 4 LCD 110$\nAlcatel idol mini LCD 95$\n\nVitre+LCD Google :\n\nGoogle Pixel LCD 130$\nGoogle Pixel XL LCD 170$\nPixel 2 159$\nPixel 2 xl 249$\nPixel 3 159$\nPixel 3 xl 199$\n\nVitre+LCD Huawei :\n\nHuawei GR5 LCD 90$\nHuawei Mate 8 LCD 100\nHuawei Mate 9 LCD 135$\nHuawei Nova Plus LCD 110$\nHuawei Y5 2nd Gen LCD 85$\nHuawei Y6 LCD 85$\nHuawei Y6 2nd Gen LCD 90$\nHuawei P10 LCD 90$\nHuawei P10 lite LCD 70$\nP10 plus 180$\nP20 179$\nP20 pro 359$\n\n\n3854boulevard Notre dame Laval coin cure-labelle\nLundi au vendredi 10-19h\nSamedi dimanche 10h - 17h\nCall now\n514 497-0954",
+      "date": "2019-08-30T17:52:56.000Z",
+      "image": "https://i.ebayimg.com/00/s/NjQwWDY0MA==/z/s8kAAOSwVq9csd31/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/NjQwWDY0MA==/z/s8kAAOSwVq9csd31/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "unlck",
+        "forsaleby": "delr",
+        "price": 49,
+        "location": {
+          "latitude": 45.54188629999999,
+          "longitude": -73.7453702,
+          "mapAddress": "Laval, QC H7V1R7",
+          "province": "quebec",
+          "mapRadius": 0
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cellulaire/laval-rive-nord/reparation-iphone-samsung-lg-au-meilleur-prix-lcd-iphone-39/1456643529",
+      "city": "Laval",
+      "postalCode": "H7V1R7",
+      "province": "Québec",
+      "locationId": 1700278,
+      "provinceLocationId": 80002
+    },
+    {
+      "title": "iPhone 8 with warranty ",
+      "description": "This phone is perfect. 2 months old . Battery health 100% . Apple care plus valid to November 24 2019. Comes with glass screen protector and case with credit card holder\n\nUnlocked",
+      "date": "2019-08-30T17:52:51.000Z",
+      "image": "https://i.ebayimg.com/00/s/NTMxWDc5NA==/z/z9gAAOSwgn1daWJD/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/NTMxWDc5NA==/z/z9gAAOSwgn1daWJD/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "rogers",
+        "forsaleby": "ownr",
+        "price": 550,
+        "location": {
+          "latitude": 45.5085201,
+          "longitude": -75.581997,
+          "mapAddress": "Gatineau, QC J8R3Z6",
+          "province": "ontario",
+          "mapRadius": 0
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cell-phone/gatineau/iphone-8-with-warranty/1456643507",
+      "city": "Gatineau",
+      "postalCode": "J8R3Z6",
+      "province": "Ontario (M - Z)",
+      "locationId": 1700186,
+      "provinceLocationId": 1700184
+    },
+    {
+      "title": "VENTE✅Huawei P30 P20 Google pixel 3 SAMSUNG A20 A30 A70✅",
+      "description": "IPhone 8 6s plus Samsung s4 s5 s6 s7 s8 iPad lg g6 G5\n\n\nAdresse:3854-boulevard Notre dame Laval coin curé-labelle\n\n\n✅❎❎❎Promo de la semaine❎❎❎✅\n\n-LG G5 comme neuf 149$\n\nLg g6 comme neuf 219$\n\nSamsung s5 neo 159$\n\nSamSung s6 179$\n\nSamsung s7 249$\n\nSamsung s8 399$\n\nSAmsung s8 plus 459$\n\nSamsung s9 499$\n\n-Samsung A5 2017 à 199$\n\n-Samsung A8 comme neuf à 279$\n\n- Huwaei p10 199$\n\n-Huwaei P20 Comme neuf à 349$\n\n-Huwaei P30 comme neuf 619$\n\nLg g7 one 339$\n\nIphone 5 109$\n\nIphone 5c 109$\n\nIphone 5S 129$\n\nIphone 6 199$\n\nIphone 6S 32gb 229$\n\nIPhone 7 32gb : 299$\n\nIPhone 7 128gb : 359$\n\nIPhone 7 Plus : 399$\n\nIphone 8 plus 64gb : 599$\n\nPixel 2 : 349$\n\nPixel 2 xl : 429$\n\nPixel 3 : 539$\n\n\nprix pour téléphone Neuf:\n\nNew Samsung on5 : 149$\n\nNew Samsung j3 : 169$\n\nNew samsung Note 3 : 219$\n\nNew Samsung j7 : 229$\n\nSamsung s5 : 199$\n\nNew samsung a20 ( double sim) : 259$\n\nNew samsung a30 ( double sim)\n\n: 339$\n\nNew Samsung a70 (double sim ) 539$\n\n\nnos téléphone sont garantie- Acheter avec confiance!! Aucun téléphone Blacklist ou bloqué iCloud , ne vs faites pas avoir avec certains Vendeurs sur Kijiji malhonnête\n\n\nTous nos telephones sont debloqué // all phones are unlocked\n\n\nVenez directement a Notre Magasin\n\n3854boulevard Notre dame Laval coin cure-labelle\n\nCall now\n\n514 497-0954",
+      "date": "2019-08-30T17:52:41.000Z",
+      "image": "https://i.ebayimg.com/00/s/NTc4WDc3MA==/z/kDEAAOSw~QpdaSSV/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/NTc4WDc3MA==/z/kDEAAOSw~QpdaSSV/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "smsung",
+        "phonecarrier": "unlck",
+        "forsaleby": "delr",
+        "price": 199,
+        "location": {
+          "latitude": 45.54188629999999,
+          "longitude": -73.74537020000002,
+          "mapAddress": "Laval, QC H7V 1R7",
+          "province": "quebec",
+          "mapRadius": 50.88413973647907
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cellulaire/laval-rive-nord/vente-huawei-p30-p20-google-pixel-3-samsung-a20-a30-a70/1456643473",
+      "city": "Laval",
+      "postalCode": "H7V",
+      "province": "Québec",
+      "locationId": 1700278,
+      "provinceLocationId": 80002
+    },
+    {
+      "title": "✅Vente✅ iPhone 7 299$ iPhone 8 469$ iPhone 6S 32gb 229$",
+      "description": "iPhone 5s 6 7 8 x Samsung s4 s5 s6 s7 s8 lg g3 g4 g5 s6 s7 G3 G4 G5 samsung note 3 4 5\n\n\nNous Vendons des Telephones Neuf et usagés\n\n\n✅✅MEILLEUR PRIX EN VILLE✅✅ NOS TÉLÉPHONES SONT GARANTIE\n\n\nAdresse:3854-boulevard Notre dame Laval coin curé-labelle\n\n\nNous vendons des téléphone neuf et usagés au meilleur prix en ville!!!\n\n\nnos téléphone sont garantie- Acheter avec confiance!! Aucun téléphone Blacklist ou bloqué iCloud , ne vs faites pas avoir avec certains Vendeurs sur Kijiji malhonnête\n\n\n✅❎❎❎Promo de la semaine❎❎❎✅\n\n\nLG G5 comme neuf : 149$\n\n-Samsung A5 2017 comme neuf :199$\n\n- lg g6 comme neuf 229$\n\n-Samsung A8 comme neuf: 269$\n\n-iPhone 5S 129$ comme neuf\n\n-iPhone 6 199$ comme neuf\n\n-Iphone 6S 32gb comme neuf 239$\n\n-huawei p10 lite comme neuf 199$\n\n-Huwaei P20 Comme neuf à 349$\n\nHuawei p30 comme neuf 619$\n\nIPhone 7 32gb unlock : 299$\n\nIPhone 7 128gb Unlock : 359$\n\niphone 7 Plus 32gb unlock : 419$\n\nIPhone 8 Plus 64gb :599$\n\nIphone 8 64gb : 469$\n\nGoogle pixel 2 349$\n\nGoogle pixel 3 549$\n\nGoogle pixel 3 Xl 619$\n\n\n---\n\n\nVoici Nos Prix Pour les téléphone Usagés:\n\n\niPhone 4S 16gb unlock : 79$\n\niPhone 5c 8gb unlock: 109$\n\nIPhone 5S Unlock : 129$\n\nIPhone SE unlock : 159$\n\nIPhone 6 16gb Unlock : 199$\n\nIPhone 6 64gb Unlock : 239$\n\nIPhone 6S 16gb Unlock : 219$\n\nIPhone 6S Plus Unlock 16gb : 359$\n\nIPhone 6S Plus Unlock 64gb :399&\n\nIPhone 7 32gb unlock : 299$\n\nIphone 7 plus 32gb unlock : 399$\n\nIPhone 7 128gb Unlock : 369&\n\nIPhone 8 Plus 64gb : 599$\n\nIphone x 64gb : 779&\n\n\n---\n\nBlackberry curve 9300 : 49$\n\nAlcatel one touch flip : 49$\n\nSamsung core : 119\n\nSamsung grand prime : 129$\n\nSamsung s4 :149$\n\nSamsung s5 neo : 159$\n\nSamsung a5 2017: 219$\n\nSamsung s7 : 299$\n\nSamsung S8 :419$\n\nSamsung S8 Plus : 489$\n\nLg q6 : 210$\n\nLg g6 : 230$\n\nSamsung note edge : 299$\n\nSamsung note 4 : 229$\n\nSamsung note 5 :279$\n\nLg g3: 139$\n\nLg g4: 159$\n\nLG G5 : 189$\n\nSamsung s7 : 299$\n\nSamsung s7 edge : 349$\n\n\nprix pour téléphone Neuf:\n\n\nNew Alcatel ideal :99$\n\nNew Samsung on5 : 149$\n\nNew Samsung j3 : 159$\n\nNew samsung note 3 : 229$\n\nNew samsung j7 : 239$\n\nRefurbished Samsung s5 : 199$\n\n\nEt encore Plus!\n\n\nVenez directement a Notre Magasin\n\n3854boulevard Notre dame Laval coin cure-labelle\n\nCall now\n\n514 497-0954",
+      "date": "2019-08-30T17:52:41.000Z",
+      "image": "https://i.ebayimg.com/00/s/ODAwWDY2Nw==/z/TBsAAOSwY~VdaST4/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/ODAwWDY2Nw==/z/TBsAAOSwY~VdaST4/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "unlck",
+        "forsaleby": "delr",
+        "price": 199,
+        "location": {
+          "latitude": 45.54188629999999,
+          "longitude": -73.74537020000002,
+          "mapAddress": "Laval, QC H7V 1R7",
+          "province": "quebec",
+          "mapRadius": 50.88413973647907
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cellulaire/laval-rive-nord/vente-iphone-7-299-iphone-8-469-iphone-6s-32gb-229/1456643472",
+      "city": "Laval",
+      "postalCode": "H7V",
+      "province": "Québec",
+      "locationId": 1700278,
+      "provinceLocationId": 80002
+    },
+    {
+      "title": "iPhone 6s best price no tax 16 Gb",
+      "description": "All parts are original\nA small crack invisible under the top left corner.\nScratches tempered on it.\nUnlocked\nMy personal iPhone.\nAny SIM card anywhere in the world.\nBest selling iPhone ever.\nReply ASAP\n150$\nSerious buyers pick up today",
+      "date": "2019-08-30T17:57:16.000Z",
+      "image": "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/CZ8AAOSw2npdaWNO/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/CZ8AAOSw2npdaWNO/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/omkAAOSwtLpdaWNS/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/rfsAAOSwPDBdaWNX/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/5ScAAOSwytpdaWNb/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "unlck",
+        "forsaleby": "ownr",
+        "price": 150,
+        "location": {
+          "latitude": 43.745815,
+          "longitude": -79.2181513,
+          "mapAddress": "Toronto, ON M1J3E5",
+          "province": "ontario",
+          "mapRadius": 0
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cell-phone/city-of-toronto/iphone-6s-best-price-no-tax-16-gb/1456644400",
+      "city": "Toronto",
+      "postalCode": "M1J3E5",
+      "province": "Ontario (M - Z)",
+      "locationId": 1700273,
+      "provinceLocationId": 1700272
+    },
+    {
+      "title": "Recherché : Iphone X 64 gb detat neuf",
+      "description": "Je vend mon Iphone x 64gb. En tres bonne condition. Aucune egratinures sur l'écran ni sur le case car il a été toujour dans la case et l'écran protecteur.\n\nJe le vends pour un prix reasonable\n\nPremière arrivé première servi\n\nI speak english as well. 4388333932",
+      "date": "2019-08-30T18:06:53.000Z",
+      "image": "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/LdIAAOSw3hFdaV1O/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/LdIAAOSw3hFdaV1O/$_57.JPG",
+        "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/4p0AAOSwCKddaV1k/$_57.JPG",
+        "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/JWEAAOSwis5daV1r/$_57.JPG",
+        "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/mLsAAOSwd3pdaV1y/$_57.JPG",
+        "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/aLoAAOSwWZFdaV14/$_57.JPG",
+        "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/awkAAOSwTPddaV1-/$_57.JPG",
+        "https://i.ebayimg.com/00/s/NjAwWDgwMA==/z/awoAAOSwjcVdaV2F/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "unlck",
+        "forsaleby": "ownr",
+        "price": 0,
+        "location": {
+          "latitude": 45.49991439999999,
+          "longitude": -73.568918,
+          "mapAddress": "Montréal, QC H3B",
+          "province": "quebec",
+          "mapRadius": 664.3624336422567
+        },
+        "type": "WANTED"
+      },
+      "url": "https://www.kijiji.ca/v-cellulaire/ville-de-montreal/iphone-x-64-gb-detat-neuf/1456646368",
+      "city": "Montréal",
+      "postalCode": "H3B",
+      "province": "Québec",
+      "locationId": 1700281,
+      "provinceLocationId": 80002
+    },
+    {
+      "title": "iPhone 8Plus 64 gig unlocked ",
+      "description": "Ready for pick up -403-Erin Mills - I have 1 white 64gig iPhone 8plus - comes with power cord , wall plug , case . Never damaged . As new .\nAll original , original screen . No scratches .\nFirst $550 firm takes it\nLocated in Mississauga - 403-Erin Mills\n\n\nAnd no I don’t have the box\nNo pay pal\nNo shipping\nNo scammers",
+      "date": "2019-08-30T18:06:42.000Z",
+      "image": "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/WS4AAOSw8j1daWWU/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/WS4AAOSw8j1daWWU/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/ZAEAAOSwDAddaWWZ/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/FOIAAOSwBCNdaWWi/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/n2EAAOSwd3pdaWWq/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "unlck",
+        "forsaleby": "ownr",
+        "price": 550,
+        "location": {
+          "latitude": 43.5516111,
+          "longitude": -79.68160759999999,
+          "mapAddress": "Mississauga, ON L5L2P6",
+          "province": "ontario",
+          "mapRadius": 0
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cell-phone/oakville-halton-region/iphone-8plus-64-gig-unlocked/1456646333",
+      "city": "Mississauga",
+      "postalCode": "L5L2P6",
+      "province": "Ontario (M - Z)",
+      "locationId": 1700276,
+      "provinceLocationId": 1700272
+    },
+    {
+      "title": "Iphone 8 Gold 64gb like new !\n",
+      "description": "Iphone 8 Gold 64gb like new !\nBarely used for few months !! I took extreme good care of this phone, always had a tampered glass screen protector and a otterbox case.\nThe phone is in pristine condition and looks just like a new one !\nSelling for 500 FIRM NO OTHER OFFERS !!",
+      "date": "2019-08-30T18:05:56.000Z",
+      "image": "https://i.ebayimg.com/00/s/ODAwWDYwOA==/z/dBYAAOSwzEBdaWV9/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/ODAwWDYwOA==/z/dBYAAOSwzEBdaWV9/$_57.JPG",
+        "https://i.ebayimg.com/00/s/ODAwWDYwNA==/z/FeUAAOSwO5JdaWWD/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "unlck",
+        "forsaleby": "ownr",
+        "price": 500,
+        "location": {
+          "latitude": 45.42558,
+          "longitude": -75.69239,
+          "mapAddress": "Ottawa, ON K1N 9J7, Canada",
+          "province": "ontario",
+          "mapRadius": 0
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cell-phone/ottawa/iphone-8-gold-64gb-like-new/1456646160",
+      "city": "Ottawa",
+      "postalCode": "K1N",
+      "province": "Ontario (M - Z)",
+      "locationId": 1700185,
+      "provinceLocationId": 1700184
+    },
+    {
+      "title": "Like New iPhone 8 Plus (+) 64gb Gold Edition",
+      "description": "Barely used and looks like new with no scratches ! It's unlocked and works with any sim cards!\nSelling for 650 and not accepting anything below! Absolutely FIRM !",
+      "date": "2019-08-30T18:05:15.000Z",
+      "image": "https://i.ebayimg.com/00/s/ODAwWDU4Mg==/z/1DAAAOSwYTpdaWVR/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/ODAwWDU4Mg==/z/1DAAAOSwYTpdaWVR/$_57.JPG",
+        "https://i.ebayimg.com/00/s/ODAwWDY0Ng==/z/DSwAAOSwMsZdaWVa/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "unlck",
+        "forsaleby": "ownr",
+        "price": 650,
+        "location": {
+          "latitude": 45.42558,
+          "longitude": -75.69239,
+          "mapAddress": "Ottawa, ON K1N 9J7, Canada",
+          "province": "ontario",
+          "mapRadius": 0
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cell-phone/ottawa/like-new-iphone-8-plus-64gb-gold-edition/1456646027",
+      "city": "Ottawa",
+      "postalCode": "K1N",
+      "province": "Ontario (M - Z)",
+      "locationId": 1700185,
+      "provinceLocationId": 1700184
+    },
+    {
+      "title": "iPhone 8Plus 64 gig unlocked ",
+      "description": "Ready for pick up -403-Erin Mills - I have 1 white 64gig iPhone 8plus - comes with power cord , wall plug , case . Never damaged . As new .\nAll original , original screen . No scratches .\nFirst $550 firm takes it\nLocated in Mississauga - 403-Erin Mills\n\n\nAnd no I don’t have the box\nNo pay pal\nNo shipping\nNo scammers",
+      "date": "2019-08-30T18:04:53.000Z",
+      "image": "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/MaQAAOSwMjBdaWUy/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/MaQAAOSwMjBdaWUy/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/eioAAOSwtCJdaWU2/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/WdoAAOSwRM1daWU9/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/XdEAAOSwZ-pdaWVE/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "unlck",
+        "forsaleby": "ownr",
+        "price": 550,
+        "location": {
+          "latitude": 43.5516111,
+          "longitude": -79.68160759999999,
+          "mapAddress": "Mississauga, ON L5L2P6",
+          "province": "ontario",
+          "mapRadius": 0
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cell-phone/city-of-toronto/iphone-8plus-64-gig-unlocked/1456645964",
+      "city": "Mississauga",
+      "postalCode": "L5L2P6",
+      "province": "Ontario (M - Z)",
+      "locationId": 1700276,
+      "provinceLocationId": 1700272
+    },
+    {
+      "title": "iPhone 7 Plus Jet Black 128GB  - Unlocked      *MINT*",
+      "description": "iPhone 7 Plus 128GB\n\n- Mint condition\n- Original Box\n- 128GB\n- Unlocked for any network\n- Functions perfectly\n\nTEXT ONLY\n587-800-3081\n\n$360 FIRM.",
+      "date": "2019-08-30T18:04:45.000Z",
+      "image": "https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/ySgAAOSwCiddaWUW/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/ySgAAOSwCiddaWUW/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/f8YAAOSwmNRdaWUf/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/2X0AAOSwF1xdaWUn/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "unlck",
+        "forsaleby": "ownr",
+        "price": 360,
+        "location": {
+          "latitude": 53.5962381,
+          "longitude": -113.4859185,
+          "mapAddress": "Edmonton, AB T5E",
+          "province": "alberta",
+          "mapRadius": 0
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cell-phone/edmonton/iphone-7-plus-jet-black-128gb-unlocked-mint/1456645933",
+      "city": "Edmonton",
+      "postalCode": "T5E",
+      "province": "Alberta",
+      "locationId": 1700203,
+      "provinceLocationId": 1700202
+    },
+    {
+      "title": "Brand New Iphone 6s Space Grey 32gb with Apple care warranty !",
+      "description": "Brand New Iphone 6s Space Grey 32gb !\nTook advantage of my apple care to replace my older device for a new one.\nIt is still under warranty until dember 2019 !\nNever used !\nPRICE IS FIRM 300",
+      "date": "2019-08-30T18:04:35.000Z",
+      "image": "https://i.ebayimg.com/00/s/ODAwWDYwMA==/z/N~kAAOSwgdNdaWUy/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/ODAwWDYwMA==/z/N~kAAOSwgdNdaWUy/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "unlck",
+        "forsaleby": "ownr",
+        "price": 300,
+        "location": {
+          "latitude": 45.42558,
+          "longitude": -75.69239,
+          "mapAddress": "Ottawa, ON K1N 9J7, Canada",
+          "province": "ontario",
+          "mapRadius": 0
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cell-phone/ottawa/brand-new-iphone-6s-space-grey-32gb-with-apple-care-warranty/1456645892",
+      "city": "Ottawa",
+      "postalCode": "K1N",
+      "province": "Ontario (M - Z)",
+      "locationId": 1700185,
+      "provinceLocationId": 1700184
+    },
+    {
+      "title": "iPhone 6 16gb unlocked with 100% battery health",
+      "description": "Text 438 793 1474",
+      "date": "2019-08-30T18:03:46.000Z",
+      "image": "https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/WVwAAOSwRLVdaWT0/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/WVwAAOSwRLVdaWT0/$_57.JPG",
+        "https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/VlwAAOSwz6BdaWUA/$_57.JPG"
+      ],
+      "attributes": {
+        "forsaleby": "ownr",
+        "price": 190,
+        "location": {
+          "latitude": 45.5300536,
+          "longitude": -73.5909143,
+          "mapAddress": "Montréal, Québec H2J1G2",
+          "province": "quebec",
+          "mapRadius": 0
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-appareils-electroniques/ville-de-montreal/iphone-6-16gb-unlocked-with-100-battery-health/1456645735",
+      "city": "Montréal",
+      "postalCode": "H2J1G2",
+      "province": "Québec",
+      "locationId": 1700281,
+      "provinceLocationId": 80002
+    },
+    {
+      "title": "I PHONE 7 PLUS 256 GB JET BLACK IN MINT CONDITION WITH ORIG BOX",
+      "description": "I PHONE 7 PLUS 256 GB JET BLACK IN MINT CONDITION WITH ORIG BOX AND CHARGER\n\nVERY CAREFULLY USED,ORIGINAL UNLOCKED FROM APPLE STORE.WANTED TO SELL AS SOON AS POSSIBLE\n\nPLEASE ONLY SERIOUS BUYERS\n\n$800 ONLY MUST GO",
+      "date": "2019-08-30T18:03:36.000Z",
+      "image": "https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/V2UAAOSwhqBdaWSv/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/V2UAAOSwhqBdaWSv/$_57.JPG",
+        "https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/insAAOSw1MRdaWS5/$_57.JPG",
+        "https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/j74AAOSwCK1daWS~/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "unlck",
+        "forsaleby": "ownr",
+        "price": 800,
+        "location": {
+          "latitude": 43.3954965,
+          "longitude": -79.7287703,
+          "mapAddress": "Oakville, ON L6L",
+          "province": "ontario",
+          "mapRadius": 4086.993185012779
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cell-phone/mississauga-peel-region/i-phone-7-plus-256-gb-jet-black-in-mint-condition-with-orig-box/1456645695",
+      "city": "Oakville",
+      "postalCode": "L6L",
+      "province": "Ontario (M - Z)",
+      "locationId": 1700277,
+      "provinceLocationId": 1700272
+    },
+    {
+      "title": "Brand New bluetooth earphones wireless driving headset",
+      "description": "Brand New Bluetooth Headset New Bee 24Hrs V4.2 Bluetooth Earpiece Wireless Handsfree Driving Headset with Noise Canceling Mic Headset Case for iPhone Samsung Android Mobile Cell Phone Tablets Office Truck Driver",
+      "date": "2019-08-30T18:03:19.000Z",
+      "image": "https://i.ebayimg.com/00/s/NzQxWDc1MA==/z/5pwAAOSwbRRcrTeN/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/NzQxWDc1MA==/z/5pwAAOSwbRRcrTeN/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTAzMFg3NTA=/z/xPAAAOSwiolcrTeP/$_57.JPG",
+        "https://i.ebayimg.com/00/s/OTQ0WDc1MA==/z/mdEAAOSw83ZcrTeS/$_57.JPG",
+        "https://i.ebayimg.com/00/s/OTI3WDc1MA==/z/XqAAAOSw4phcrTeU/$_57.JPG",
+        "https://i.ebayimg.com/00/s/ODU1WDc1MA==/z/DLYAAOSww9BcrTeW/$_57.JPG",
+        "https://i.ebayimg.com/00/s/OTE4WDc1MA==/z/dDoAAOSwbllcrTeZ/$_57.JPG"
+      ],
+      "attributes": {
+        "forsaleby": "ownr",
+        "price": 25,
+        "location": {
+          "latitude": 53.403825,
+          "longitude": -113.520687,
+          "mapAddress": "Edmonton, AB T6W2X7",
+          "province": "alberta",
+          "mapRadius": 0
+        },
+        "type": "OFFER",
+        "visits": 74
+      },
+      "url": "https://www.kijiji.ca/v-general-electronics/edmonton/brand-new-bluetooth-earphones-wireless-driving-headset/1426261255",
+      "city": "Edmonton",
+      "postalCode": "T6W2X7",
+      "province": "Alberta",
+      "locationId": 1700203,
+      "provinceLocationId": 1700202
+    },
+    {
+      "title": "Réparation téléphones cellulaire / service mobile / 514-600-2889",
+      "description": "Bienvenue chez Ielectronics votre carrefour de réparation de téléphones cellulaires depuis plus de 8 ans. Nous réparons des appareils tel que les iPhone, iPad, Samsung, LG, Huawei et bien d'autres.\n\n\nNous sommes un service de réparation MOBILE. Nous n'utilisons que des pièces originales et nous nous déplaçons pour effectuer les réparations directement sur place pour plus de commodité et de flexibilité.\n\n\nToutes les réparations sont effectuées dans les heures qui suivent. Nous avons une large plage horaire pour mieux vous desservir entre 7 h et 22 h TOUS LES JOURS.\n\n\n### 514-600-2889 ###",
+      "date": "2019-08-30T18:03:11.000Z",
+      "image": "https://i.ebayimg.com/00/s/MzkzWDU5MA==/z/XS4AAOSwDStdaWTD/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/MzkzWDU5MA==/z/XS4AAOSwDStdaWTD/$_57.JPG"
+      ],
+      "attributes": {
+        "price": 0,
+        "location": {
+          "latitude": 45.5016889,
+          "longitude": -73.567256,
+          "mapAddress": "Montréal, QC, Canada",
+          "province": "quebec",
+          "mapRadius": 0
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-autres-services/ville-de-montreal/reparation-telephones-cellulaire-service-mobile-514-600-2889/1456645613",
+      "city": "Montréal",
+      "postalCode": "Canada",
+      "province": "Québec",
+      "locationId": 1700281,
+      "provinceLocationId": 80002
+    },
+    {
+      "title": "iPhone 8Plus 64 gig unlocked -",
+      "description": "Ready for pick up -403-Erin Mills - I have 1 white 64gig iPhone 8plus - comes with power cord , wall plug , case . Never damaged . As new .\nAll original , original screen . No scratches .\nFirst $550 firm takes it\nLocated in Mississauga - 403-Erin Mills\n\n\nAnd no I don’t have the box\nCash only\nNo pay pal\nNo shipping",
+      "date": "2019-08-30T18:02:51.000Z",
+      "image": "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/FNYAAOSwsS9daWSx/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/FNYAAOSwsS9daWSx/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/HMwAAOSw--pdaWS1/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/G2wAAOSwFBVdaWS7/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/MzgAAOSwYVRdaWTA/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "unlck",
+        "forsaleby": "ownr",
+        "price": 550,
+        "location": {
+          "latitude": 43.5516111,
+          "longitude": -79.68160759999999,
+          "mapAddress": "Mississauga, ON L5L2P6",
+          "province": "ontario",
+          "mapRadius": 0
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cell-phone/mississauga-peel-region/iphone-8plus-64-gig-unlocked/1456645540",
+      "city": "Mississauga",
+      "postalCode": "L5L2P6",
+      "province": "Ontario (M - Z)",
+      "locationId": 1700276,
+      "provinceLocationId": 1700272
+    },
+    {
+      "title": "Gold i phone 7 plus ",
+      "description": "Mint condition got one drop on it brand new only used for a month",
+      "date": "2019-08-30T18:02:38.000Z",
+      "image": "https://i.ebayimg.com/00/s/MTYwMFg5MDA=/z/iyYAAOSw0cVdaWP~/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/MTYwMFg5MDA=/z/iyYAAOSw0cVdaWP~/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFg5MDA=/z/icwAAOSwEDxdaWQB/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "unlck",
+        "forsaleby": "ownr",
+        "price": 580,
+        "location": {
+          "latitude": 43.68902560000001,
+          "longitude": -79.453512,
+          "mapAddress": "Toronto, ON M6E",
+          "province": "ontario",
+          "mapRadius": 0
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cell-phone/city-of-toronto/gold-i-phone-7-plus/1456645490",
+      "city": "Toronto",
+      "postalCode": "M6E",
+      "province": "Ontario (M - Z)",
+      "locationId": 1700273,
+      "provinceLocationId": 1700272
+    },
+    {
+      "title": "Unlocked Apple iPhone 8 64gb in BRAND NEW",
+      "description": "BRAND NEW IN BOX Unlocked iPhone 8 64gb condition.\n\nComes with box and charger.\n\nFirm price",
+      "date": "2019-08-30T18:01:07.000Z",
+      "image": "https://i.ebayimg.com/00/s/ODAwWDY3NQ==/z/5C4AAOSwzj9dH2KW/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/ODAwWDY3NQ==/z/5C4AAOSwzj9dH2KW/$_57.JPG",
+        "https://i.ebayimg.com/00/s/ODAwWDQ1MA==/z/-~8AAOSwBRFdH2Kd/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "unlck",
+        "forsaleby": "ownr",
+        "price": 690,
+        "location": {
+          "latitude": 43.662403,
+          "longitude": -79.49411580000003,
+          "mapAddress": "Toronto, York, ON M6S 4L3",
+          "province": "ontario",
+          "mapRadius": 208.74117276623528
+        },
+        "type": "OFFER",
+        "visits": 14
+      },
+      "url": "https://www.kijiji.ca/v-cell-phone/city-of-toronto/unlocked-apple-iphone-8-64gb-in-brand-new/1445165037",
+      "city": "Toronto",
+      "postalCode": "ON",
+      "province": "Ontario (M - Z)",
+      "locationId": 1700273,
+      "provinceLocationId": 1700272
+    },
+    {
+      "title": "iPhone 7 32gb ",
+      "description": "Black iPhone 7 32gb\nExcellent condition\nWorks properly\nNot iCloud locked\nText me at my number 6479066665",
+      "date": "2019-08-30T18:09:34.000Z",
+      "image": "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/Za0AAOSwGsxdaWZK/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/Za0AAOSwGsxdaWZK/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/YfsAAOSwjE1daWZO/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/7bUAAOSwFutdaWZS/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/2hMAAOSw0vpdaWZV/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/OIMAAOSwfcddaWZZ/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/8v4AAOSwffhdaWZd/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "unlck",
+        "forsaleby": "ownr",
+        "price": 320,
+        "location": {
+          "latitude": 43.5930784,
+          "longitude": -79.64249110000002,
+          "mapAddress": "Mississauga, ON L5B2C9",
+          "province": "ontario",
+          "mapRadius": 0
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cell-phone/mississauga-peel-region/iphone-7-32gb/1456646998",
+      "city": "Mississauga",
+      "postalCode": "L5B2C9",
+      "province": "Ontario (M - Z)",
+      "locationId": 1700276,
+      "provinceLocationId": 1700272
+    },
+    {
+      "title": "iPhone 6S 32GB Space Grey",
+      "description": "Hello, selling my iPhone 6s since I got new phone , no cracks on any side, everything working perfect. Message me if you are interested.",
+      "date": "2019-08-30T18:08:39.000Z",
+      "image": "https://i.ebayimg.com/00/s/ODAwWDYwMA==/z/CcsAAOSwC4FdaWYW/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/ODAwWDYwMA==/z/CcsAAOSwC4FdaWYW/$_57.JPG",
+        "https://i.ebayimg.com/00/s/ODAwWDYwMA==/z/sAoAAOSwPDBdaWYS/$_57.JPG",
+        "https://i.ebayimg.com/00/s/ODAwWDYwMA==/z/VbMAAOSwPuhdaWYH/$_57.JPG",
+        "https://i.ebayimg.com/00/s/ODAwWDYwMA==/z/oHQAAOSwsbVdaWYM/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "unlck",
+        "forsaleby": "ownr",
+        "price": 230,
+        "location": {
+          "latitude": 53.4446361,
+          "longitude": -113.57177189999999,
+          "mapAddress": "Edmonton, AB T6R 0S3",
+          "province": "alberta",
+          "mapRadius": 166.99681886461246
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cell-phone/edmonton/iphone-6s-32gb-space-grey/1456646726",
+      "city": "Edmonton",
+      "postalCode": "T6R",
+      "province": "Alberta",
+      "locationId": 1700203,
+      "provinceLocationId": 1700202
+    },
+    {
+      "title": "iPhone X",
+      "description": "Selling year old iPhone X as I’ve upgraded\n\nUnused headphones\nLeather Apple case\nCharging “lux” case which recharged phone to 100%\nCharging cable\n\nMinor wear\n\nApple care coverage paid for until feb 2020\n(Never used)\n\nUsed with eastlink",
+      "date": "2019-08-30T18:08:18.000Z",
+      "image": "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/U5wAAOSwYMldaWXJ/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/U5wAAOSwYMldaWXJ/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/fDYAAOSwpUVdaWXL/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/YT4AAOSwsIBdaWXN/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/NOkAAOSw3hFdaWXQ/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/CNoAAOSw9Z9daWXS/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/-HEAAOSwAQhdaWXU/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTYwMFgxMjAx/z/KHcAAOSwv4hdaWXV/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "other",
+        "forsaleby": "ownr",
+        "price": 800,
+        "location": {
+          "latitude": 44.6525829,
+          "longitude": -63.66269369999999,
+          "mapAddress": "Halifax, NS B3S0A5",
+          "province": "nova-scotia",
+          "mapRadius": 0
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cell-phone/city-of-halifax/iphone-x/1456646655",
+      "city": "Halifax",
+      "postalCode": "B3S0A5",
+      "province": "Nova Scotia",
+      "locationId": 1700321,
+      "provinceLocationId": 80010
+    },
+    {
+      "title": "iPhone 8 Plus ",
+      "description": "Excellent condition 10/10 like brand new\nWith original box unlocked work with all carriers\nEmail Text or call at 6475880786",
+      "date": "2019-08-30T18:07:54.000Z",
+      "image": "https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/yY0AAOSwX4FdaWXS/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/yY0AAOSwX4FdaWXS/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/LvEAAOSwm3ldaWXY/$_57.JPG",
+        "https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/9qcAAOSwfKVdaWXc/$_57.JPG"
+      ],
+      "attributes": {
+        "phonebrand": "apple",
+        "phonecarrier": "unlck",
+        "forsaleby": "ownr",
+        "price": 700,
+        "location": {
+          "latitude": 43.5614691,
+          "longitude": -79.7510281,
+          "mapAddress": "Mississauga, ON L5M6T3",
+          "province": "ontario",
+          "mapRadius": 0
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-cell-phone/mississauga-peel-region/iphone-8-plus/1456646580",
+      "city": "Mississauga",
+      "postalCode": "L5M6T3",
+      "province": "Ontario (M - Z)",
+      "locationId": 1700276,
+      "provinceLocationId": 1700272
+    },
+    {
+      "title": "iPhone 6 64gb unlocked with 100% battery health",
+      "description": "Text 438 793 1474",
+      "date": "2019-08-30T18:07:32.000Z",
+      "image": "https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/Xc0AAOSw3GddaWXY/$_35.JPG",
+      "images": [
+        "https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/Xc0AAOSw3GddaWXY/$_57.JPG",
+        "https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/rl4AAOSw~p5daWXj/$_57.JPG"
+      ],
+      "attributes": {
+        "forsaleby": "ownr",
+        "price": 230,
+        "location": {
+          "latitude": 45.5300536,
+          "longitude": -73.5909143,
+          "mapAddress": "Montréal, Québec H2J1G2",
+          "province": "quebec",
+          "mapRadius": 0
+        },
+        "type": "OFFER"
+      },
+      "url": "https://www.kijiji.ca/v-appareils-electroniques/ville-de-montreal/iphone-6-64gb-unlocked-with-100-battery-health/1456646490",
+      "city": "Montréal",
+      "postalCode": "H2J1G2",
+      "province": "Québec",
+      "locationId": 1700281,
+      "provinceLocationId": 80002
     }
   ],
   "locationsTree": {

@@ -27,5 +27,4 @@ let params = {
 scraper.searchKijijiAndRecordUniqueAds(params, options)
 
 // TO MAKE ADS
-// let adsByLocations = dbHelper.getAdsByLocations()
-// adWriter.writeAds(adsByLocations, dbHelper.db.get('forSale').value()[0])
+adWriter.writeAds()

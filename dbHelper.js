@@ -18,10 +18,8 @@ function writeUniqueAdsToDB(ads) {
             .value()
         if (!adExists) {
             let city = ads[i].attributes.location.mapAddress.split(" ")[0].replace(",", "")
-            let province = ads[i].attributes.location.mapAddress.split(" ")[1]
+            let province = ads[i].attributes.location.province
             let postalCode = ads[i].attributes.location.mapAddress.split(" ")[2]
-
-
 
             // FIND KIJIJI AREA CODES
             let cityCodes = findCityCodes(city)
@@ -29,7 +27,7 @@ function writeUniqueAdsToDB(ads) {
             if (cityCodes) {
                 ads[i].city = city
                 ads[i].postalCode = postalCode
-                ads[i].province = province
+                ads[i].province = cityCodes.provinceName
                 ads[i].locationId = cityCodes.locationId
                 ads[i].provinceLocationId = cityCodes.provinceLocationId
                 db.get('ads')
@@ -45,7 +43,7 @@ function writeUniqueAdsToDB(ads) {
 function findCityCodes(city) {
     let allLocations = getAllLocations()
     for (location of allLocations) {
-        if (location.subCityName.includes(city)) {
+        if (location.subCityName.toUpperCase().includes(city.toUpperCase())) {
             return location
         }
     }

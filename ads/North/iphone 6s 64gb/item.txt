@@ -1,0 +1,38 @@
+postAdForm.priceAmount: 255
+postAdForm.title: Get refurbished Unlocked iphone 6s 64gb gold at Hundoiphone.com unlocked with 100% battery health
+postAdForm.phoneNumber: 438 793 1474‬
+postAdForm.adType: OFFER
+postAdForm.priceType: FIXED
+postAdForm.attributeMap[forsaleby_s]: ownr
+postAdForm.description: Buy now at hundoiphone.com
+image_paths:
+- 1.JPG
+- 2.JPG
+- 3.JPG
+postAdForm.city: North
+postAdForm.province: ontario
+postAdForm.postalCode: ON
+postAdForm.addressCity: North
+postAdForm.addressProvince: ontario
+postAdForm.addressPostalCode: ON
+postAdForm.geocodeLat: 43.7913382
+postAdForm.geocodeLng: -79.35394810000003
+postAdForm.locationId: 1700278
+PostalLat: 43.7913382
+PostalLng: -79.35394810000003
+locationLevel0: 80002
+postAdForm.city: North
+postAdForm.province: ontario
+postAdForm.postalCode: ON
+postAdForm.addressCity: North
+postAdForm.addressProvince: ontario
+postAdForm.addressPostalCode: ON
+postAdForm.geocodeLat: 43.7913382
+postAdForm.geocodeLng: -79.35394810000003
+postAdForm.locationId: 1700278
+PostalLat: 43.7913382
+PostalLng: -79.35394810000003
+locationLevel0: 80002
+2
+02
+

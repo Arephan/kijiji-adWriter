@@ -1,0 +1,38 @@
+postAdForm.priceAmount: 215
+postAdForm.title: Get refurbished Unlocked iphone 6s 16gb gold at Hundoiphone.com unlocked with 100% battery health
+postAdForm.phoneNumber: 438 793 1474‬
+postAdForm.adType: OFFER
+postAdForm.priceType: FIXED
+postAdForm.attributeMap[forsaleby_s]: ownr
+postAdForm.description: Buy now at hundoiphone.com
+image_paths:
+- 1.JPG
+- 2.JPG
+- 3.JPG
+postAdForm.city: Mississauga
+postAdForm.province: Ontario (M - Z)
+postAdForm.postalCode: L5L2P6
+postAdForm.addressCity: Mississauga
+postAdForm.addressProvince: Ontario (M - Z)
+postAdForm.addressPostalCode: L5L2P6
+postAdForm.geocodeLat: 43.5516111
+postAdForm.geocodeLng: -79.68160759999999
+postAdForm.locationId: 1700276
+PostalLat: 43.5516111
+PostalLng: -79.68160759999999
+locationLevel0: 1700272
+postAdForm.city: Mississauga
+postAdForm.province: Ontario (M - Z)
+postAdForm.postalCode: L5L2P6
+postAdForm.addressCity: Mississauga
+postAdForm.addressProvince: Ontario (M - Z)
+postAdForm.addressPostalCode: L5L2P6
+postAdForm.geocodeLat: 43.5516111
+postAdForm.geocodeLng: -79.68160759999999
+postAdForm.locationId: 1700276
+PostalLat: 43.5516111
+PostalLng: -79.68160759999999
+locationLevel0: 1700272
+2
+72
+

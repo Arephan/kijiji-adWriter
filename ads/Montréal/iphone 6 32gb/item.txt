@@ -1,0 +1,44 @@
+postAdForm.priceAmount: 195
+postAdForm.title: Get refurbished Unlocked iphone 6 32gb gold at Hundoiphone.com unlocked with 100% battery health
+postAdForm.phoneNumber: 438 793 1474‬
+postAdForm.adType: OFFER
+postAdForm.priceType: FIXED
+postAdForm.attributeMap[forsaleby_s]: ownr
+postAdForm.description: Buy now at hundoiphone.com
+image_paths:
+- 1.JPG
+- 2.JPG
+- 3.JPG
+postAdForm.city: Montréal
+postAdForm.province: Québec
+postAdForm.postalCode: Canada
+postAdForm.addressCity: Montréal
+postAdForm.addressProvince: Québec
+postAdForm.addressPostalCode: Canada
+postAdForm.geocodeLat: 45.5016889
+postAdForm.geocodeLng: -73.567256
+postAdForm.locationId: 1700281
+PostalLat: 45.5016889
+PostalLng: -73.567256
+locationLevel0: 80002
+postAdForm.city: Montréal
+postAdForm.province: Québec
+postAdForm.postalCode: Canada
+postAdForm.addressCity: Montréal
+postAdForm.addressProvince: Québec
+postAdForm.addressPostalCode: Canada
+postAdForm.geocodeLat: 45.5016889
+postAdForm.geocodeLng: -73.567256
+postAdForm.locationId: 1700281
+PostalLat: 45.5016889
+PostalLng: -73.567256
+locationLevel0: 80002
+2
+02
+
+02
+
+80002
+2
+02
+

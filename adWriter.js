@@ -3,6 +3,7 @@
 const constants = require("./constants")
 const kijijiLocationTree = require("./kijijiLocationsTree")
 const fs = require('fs')
+const dbHelper = require('./dbHelper')
 // example ad: 
 
 // PART1 (ABOUT)
@@ -72,6 +73,13 @@ function partThree() {
     return rStr
 }
 
+function writeAds() {
+    let ads = dbHelper.db.get('ads')
+    for (ad of ads) {
+        writeAd(ad, constants.forSale)
+    }
+}
+
 function writeAd(ad, forSale) {
 
     for (color of forSale[0].colors) {
@@ -86,10 +94,10 @@ function writeAd(ad, forSale) {
 
             // PART TWO
             let city = ad.city
-            let provinceName = ad.provinceName
+            let provinceName = ad.province
             let lat = ad.attributes.location.latitude
             let long = ad.attributes.location.longitude
-            let postalCode = ad.attributes.mapAddress.slice(-2, -1)
+            let postalCode = ad.postalCode
             let locationId = ad.locationId
             let locationlevel0 = ad.provinceLocationId
 
@@ -100,16 +108,20 @@ function writeAd(ad, forSale) {
 
             let data = one + two + three
 
-            let path = 'ads/' + city + '/' + type + '/' + color
+            let path = './ads/' + city + '/' + type.name
 
-            fs.writeFile(path, data, (err) => {
-                // In case of a error throw err. 
-                if (err) throw err;
-            })
+            try {
+                fs.mkdirSync(path, { recursive: true })
+            } catch (err) {
+                if (err.code !== 'EEXIST') throw err
+            }
 
-
-
-
+                fs.writeFile(path+"/item.txt", data, (err) => {
+                    // In case of a error throw err. 
+                    if (err) throw err;
+                })
+                console.log('Saved!');
+        
         }
     }
     // PART ONE
@@ -128,4 +140,5 @@ function writeAd(ad, forSale) {
 module.exports = {
     partOne: partOne,
     partTwo: partTwo,
+    writeAds: writeAds
 }

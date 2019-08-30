@@ -1,0 +1,38 @@
+postAdForm.priceAmount: 195
+postAdForm.title: Get refurbished Unlocked iphone 6 32gb gold at Hundoiphone.com unlocked with 100% battery health
+postAdForm.phoneNumber: 438 793 1474‬
+postAdForm.adType: OFFER
+postAdForm.priceType: FIXED
+postAdForm.attributeMap[forsaleby_s]: ownr
+postAdForm.description: Buy now at hundoiphone.com
+image_paths:
+- 1.JPG
+- 2.JPG
+- 3.JPG
+postAdForm.city: Laval
+postAdForm.province: Québec
+postAdForm.postalCode: H7V
+postAdForm.addressCity: Laval
+postAdForm.addressProvince: Québec
+postAdForm.addressPostalCode: H7V
+postAdForm.geocodeLat: 45.54188629999999
+postAdForm.geocodeLng: -73.74537020000002
+postAdForm.locationId: 1700278
+PostalLat: 45.54188629999999
+PostalLng: -73.74537020000002
+locationLevel0: 80002
+postAdForm.city: Laval
+postAdForm.province: Québec
+postAdForm.postalCode: H7V
+postAdForm.addressCity: Laval
+postAdForm.addressProvince: Québec
+postAdForm.addressPostalCode: H7V
+postAdForm.geocodeLat: 45.54188629999999
+postAdForm.geocodeLng: -73.74537020000002
+postAdForm.locationId: 1700278
+PostalLat: 45.54188629999999
+PostalLng: -73.74537020000002
+locationLevel0: 80002
+2
+02
+
