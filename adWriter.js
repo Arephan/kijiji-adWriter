@@ -79,6 +79,15 @@ function partThree() {
     return rObj
 }
 
+function partFour(username, password) {
+    let rObj = {
+        "username": username,
+        "password": password
+    }
+
+    return rObj
+}
+
 function writeAds() {
     let ads = dbHelper.db.get('ads')
     for (ad of ads) {
@@ -112,8 +121,18 @@ function writeAd(ad, forSale) {
             // PART THREE
             let three = partThree()
 
+            // PART FOUR
+            function getRandomArbitrary(min, max) {
+                return Math.random() * (max - min) + min;
+             }
+
+            randomAccount = getRandomArbitrary(1, 5) + "@hundoiphone.com"
+            
+            let four = partFour(randomAccount, "Kijijiforlife123*")
+
             let adObj = mergeJSON.merge(one, two)
             adObj = mergeJSON.merge(adObj, three)
+            adObj = mergeJSON.merge(adObj, four)
 
             let path = './ads/' + city + '/' + type.dirName
 
