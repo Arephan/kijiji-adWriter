@@ -5,7 +5,7 @@ const kijijiLocationTree = require("./kijijiLocationsTree")
 const fs = require('fs')
 const dbHelper = require('./dbHelper')
 const writeYamlFile = require('write-yaml-file')
-var mergeJSON = require("merge-json") ;
+var mergeJSON = require("merge-json");
 // example ad: 
 
 // PART1 (ABOUT)
@@ -95,63 +95,66 @@ function writeAds() {
     }
 }
 
+function getRandomInt(min, max) {
+    min = Math.ceil(min);
+    max = Math.floor(max);
+    return Math.floor(Math.random() * (max - min)) + min; //The maximum is exclusive and the minimum is inclusive
+}
+
 function writeAd(ad, forSale) {
 
-    for (color of forSale[0].colors) {
-        for (type of forSale[0].types) {
-            // PART ONE
-            let title = "Get refurbished Unlocked " + type.name + " " + color + " at Hundoiphone.com"
-            let priceAmount = type.price
-            let phoneNumber = forSale[0].phoneNumber
-            let description = "Buy now at hundoiphone.com"
+    // PART ONE
+    let randomColorIndex = (0, forSale[0].colors.length - 1)
+    let randomTypeIndex = (0, forSale[0].types.length - 1)
 
-            let one = partOne(priceAmount, title, phoneNumber, description)
+    let color = forSale[0].colors[randomColorIndex]
+    let type = forSale[0].types[randomTypeIndex]
+    let title = "Get refurbished Unlocked " + type.name + " " + color + " at Hundoiphone.com"
+    let priceAmount = type.price
+    let phoneNumber = forSale[0].phoneNumber
+    let description = "Buy now at hundoiphone.com"
 
-            // PART TWO
-            let city = ad.city
-            let provinceName = ad.province
-            let lat = ad.attributes.location.latitude
-            let long = ad.attributes.location.longitude
-            let postalCode = ad.postalCode
-            let locationId = ad.locationId
-            let locationlevel0 = ad.provinceLocationId
+    let one = partOne(priceAmount, title, phoneNumber, description)
 
-            let two = partTwo(city, provinceName, postalCode, lat, long, locationId, locationlevel0)
+    // PART TWO
+    let city = ad.city
+    let provinceName = ad.province
+    let lat = ad.attributes.location.latitude
+    let long = ad.attributes.location.longitude
+    let postalCode = ad.postalCode
+    let locationId = ad.locationId
+    let locationlevel0 = ad.provinceLocationId
 
-            // PART THREE
-            let three = partThree()
+    let two = partTwo(city, provinceName, postalCode, lat, long, locationId, locationlevel0)
 
-            // PART FOUR
-            function getRandomInt(min, max) {
-                min = Math.ceil(min);
-                max = Math.floor(max);
-                return Math.floor(Math.random() * (max - min)) + min; //The maximum is exclusive and the minimum is inclusive
-              }
+    // PART THREE
+    let three = partThree()
 
-            randomAccount = getRandomInt(1, 5) + "@hankimproductions.com"
-            
-            let four = partFour(randomAccount, "Kijijiforlife1*")
+    // PART FOUR
 
-            let adObj = mergeJSON.merge(one, two)
-            adObj = mergeJSON.merge(adObj, three)
-            adObj = mergeJSON.merge(adObj, four)
 
-            let path = './ads/' + city + '/' + type.dirName
+    randomAccount = getRandomInt(1, 5) + "@hankimproductions.com"
 
-            try {
-                fs.mkdirSync(path, { recursive: true })
-            } catch (err) {
-                if (err.code !== 'EEXIST') throw err
-            }
+    let four = partFour(randomAccount, "Kijijiforlife1*")
 
-            path = path + '/item.yaml'
+    let adObj = mergeJSON.merge(one, two)
+    adObj = mergeJSON.merge(adObj, three)
+    adObj = mergeJSON.merge(adObj, four)
 
-            writeYamlFile(path, adObj).then(() => {
-                console.log('done')
-            })
+    let path = './ads/' + city + '/' + type.dirName
 
-        }
+    try {
+        fs.mkdirSync(path, { recursive: true })
+    } catch (err) {
+        if (err.code !== 'EEXIST') throw err
     }
+
+    path = path + '/item.yaml'
+
+    writeYamlFile(path, adObj).then(() => {
+        console.log('done')
+    })
+
     // PART ONE
 
 
