@@ -128,7 +128,7 @@ function writeAd(ad, forSale) {
                 return Math.floor(Math.random() * (max - min)) + min; //The maximum is exclusive and the minimum is inclusive
               }
 
-            randomAccount = getRandomInt(1, 5) + "@hundoiphone.com"
+            randomAccount = getRandomInt(1, 5) + "@hankimproductions.com"
             
             let four = partFour(randomAccount, "Kijijiforlife1*")
 
