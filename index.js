@@ -23,8 +23,15 @@ let params = {
     keywords: 'iphone'
 };
 
-// TO SCRAPE UNCOMMENT
-scraper.searchKijijiAndRecordUniqueAds(params, options)
+let dbBranchName = "ads"
 
-// TO MAKE ADS
-adWriter.writeAds()
+// TO MAKE CANADA WIDE ADS
+// scraper.searchKijijiAndRecordUniqueAds(params, options, dbBranchName)
+// adWriter.writeAds(dbBranchName)
+
+// TO MAKE MONTREAL ADS
+params.locationId = kijiji.locations.QUEBEC.GREATER_MONTREAL.CITY_OF_MONTREAL
+dbBranchName = "montreal"
+scraper.searchKijijiAndRecordUniqueAds(params, options, dbBranchName).then(() => {
+adWriter.writeAds(dbBranchName)
+})

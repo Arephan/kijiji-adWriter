@@ -6,6 +6,9 @@ const fs = require('fs')
 const dbHelper = require('./dbHelper')
 const writeYamlFile = require('write-yaml-file')
 var mergeJSON = require("merge-json");
+const random = require('random')
+const seedrandom = require('seedrandom')
+
 // example ad: 
 
 // PART1 (ABOUT)
@@ -88,24 +91,21 @@ function partFour(username, password) {
     return rObj
 }
 
-function writeAds() {
-    let ads = dbHelper.db.get('ads')
+function writeAds(dbBranchName) {
+    let ads = dbHelper.db.get(dbBranchName)
     for (ad of ads) {
-        writeAd(ad, constants.forSale)
+        writeAd(ad, constants.forSale, dbBranchName)
     }
 }
 
-function getRandomInt(min, max) {
-    min = Math.ceil(min);
-    max = Math.floor(max);
-    return Math.floor(Math.random() * (max - min)) + min; //The maximum is exclusive and the minimum is inclusive
-}
-
-function writeAd(ad, forSale) {
+function writeAd(ad, forSale, dbBranchName) {
 
     // PART ONE
-    let randomColorIndex = (0, forSale[0].colors.length - 1)
-    let randomTypeIndex = (0, forSale[0].types.length - 1)
+
+    random.use(seedrandom(ad.url)) // seed random with url string
+
+    let randomColorIndex = random.int(min = 0, max = forSale[0].colors.length - 1) 
+    let randomTypeIndex = random.int(min = 0, max = forSale[0].types.length - 1)
 
     let color = forSale[0].colors[randomColorIndex]
     let type = forSale[0].types[randomTypeIndex]
@@ -133,7 +133,7 @@ function writeAd(ad, forSale) {
     // PART FOUR
 
 
-    randomAccount = getRandomInt(1, 5) + "@hankimproductions.com"
+    randomAccount = random.int(min = 1, max = 5) + "@hankimproductions.com"
 
     let four = partFour(randomAccount, "Kijijiforlife1*")
 
@@ -141,7 +141,7 @@ function writeAd(ad, forSale) {
     adObj = mergeJSON.merge(adObj, three)
     adObj = mergeJSON.merge(adObj, four)
 
-    let path = './ads/' + city + '/' + type.dirName
+    let path = './' + dbBranchName + '/' + city + '/' + type.dirName
 
     try {
         fs.mkdirSync(path, { recursive: true })

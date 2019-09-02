@@ -7,13 +7,13 @@ const adapter = new FileSync('db.json')
 const db = low(adapter)
 
 function setDefaults() {
-    db.defaults({ ads: [], locationsTree: kijijiLocationsTree.locationsTree, forSale: constants.forSale })
+    db.defaults({ ads: [], montreal: [], locationsTree: kijijiLocationsTree.locationsTree, forSale: constants.forSale })
         .write()
 }
 
-function writeUniqueAdsToDB(ads) {
+function writeUniqueAdsToDB(ads, branchName) {
     for (i in ads) {
-        let adExists = db.get('ads')
+        let adExists = db.get(branchName)
             .find({ url: ads[i].url })
             .value()
         if (!adExists) {
@@ -30,7 +30,7 @@ function writeUniqueAdsToDB(ads) {
                 ads[i].province = cityCodes.provinceName
                 ads[i].locationId = cityCodes.locationId
                 ads[i].provinceLocationId = cityCodes.provinceLocationId
-                db.get('ads')
+                db.get(branchName)
                     .push(ads[i])
                     .write()
             }
