@@ -24,5 +24,7 @@ const companyKijijiAcounts = [
 ]
 
 module.exports = {
-    forSale: forSale
+    forSale: forSale,
+    personalKijijiAccounts,
+    companyKijijiAcounts
 }

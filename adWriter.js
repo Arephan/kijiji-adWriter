@@ -24,7 +24,7 @@ const seedrandom = require('seedrandom')
 // - 1.JPG
 // - 2.JPG
 
-function partOne(priceAmount, title, phoneNumber, description) {
+function partOne(priceAmount, title, phoneNumber, description, color) {
     rObj = {
         "postAdForm.priceAmount": priceAmount,
         "postAdForm.title": title,
@@ -33,7 +33,7 @@ function partOne(priceAmount, title, phoneNumber, description) {
         "postAdForm.priceType": "FIXED",
         "postAdForm.attributeMap[forsaleby_s]": "ownr",
         "postAdForm.description": description,
-        "image_paths": ["../../../iphonePics/1.JPG", "../../../iphonePics/2.JPG"]
+        "image_paths": ["../../../iphonePics/" + color + "/1.JPG", "../../../iphonePics/" + color + "/2.JPG"]
     }
 
     return rObj
@@ -91,30 +91,30 @@ function partFour(username, password) {
     return rObj
 }
 
-function writeAds(dbBranchName) {
+function writeAds(dbBranchName, kijijiAccounts) {
     let ads = dbHelper.db.get(dbBranchName)
     for (ad of ads) {
-        writeAd(ad, constants.forSale, dbBranchName)
+        writeAd(ad, constants.forSale, dbBranchName, kijijiAccounts)
     }
 }
 
-function writeAd(ad, forSale, dbBranchName) {
+function writeAd(ad, forSale, dbBranchName, kijijiAccounts) {
 
     // PART ONE
 
     random.use(seedrandom(ad.url)) // seed random with url string
 
-    let randomColorIndex = random.int(min = 0, max = forSale[0].colors.length - 1) 
+    let randomColorIndex = random.int(min = 0, max = forSale[0].colors.length - 1)
     let randomTypeIndex = random.int(min = 0, max = forSale[0].types.length - 1)
 
     let color = forSale[0].colors[randomColorIndex]
     let type = forSale[0].types[randomTypeIndex]
-    let title = "Get refurbished Unlocked " + type.name + " " + color + " at Hundoiphone.com"
+    let title = "Unlocked " + type.name + " " + color + " 100% battery health"
     let priceAmount = type.price
     let phoneNumber = forSale[0].phoneNumber
-    let description = "Buy now at hundoiphone.com"
+    let description = "call (438) 793-1474"
 
-    let one = partOne(priceAmount, title, phoneNumber, description)
+    let one = partOne(priceAmount, title, phoneNumber, description,color)
 
     // PART TWO
     let city = ad.city
@@ -133,15 +133,16 @@ function writeAd(ad, forSale, dbBranchName) {
     // PART FOUR
 
 
-    randomAccount = random.int(min = 1, max = 5) + "@hankimproductions.com"
+    randomAccountIndex = random.int(min = 0, max = kijijiAccounts.length-1)
+    let randomAccount = kijijiAccounts[randomAccountIndex]
 
-    let four = partFour(randomAccount, "Kijijiforlife1*")
+    let four = partFour(randomAccount.email, randomAccount.password)
 
     let adObj = mergeJSON.merge(one, two)
     adObj = mergeJSON.merge(adObj, three)
     adObj = mergeJSON.merge(adObj, four)
 
-    let path = './' + dbBranchName + '/' + city + '/' + type.dirName
+    let path = './' + dbBranchName + '/' + city + '/' + type.dirName + '/' + postalCode
 
     try {
         fs.mkdirSync(path, { recursive: true })
