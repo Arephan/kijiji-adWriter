@@ -3,3 +3,5 @@ package-lock.json
 ads
 db.json
 montreal
+kijijiapi_dump*
+.DS_Store
