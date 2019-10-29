@@ -33,7 +33,7 @@ function partOne(priceAmount, title, phoneNumber, description, color) {
         "postAdForm.priceType": "FIXED",
         "postAdForm.attributeMap[forsaleby_s]": "ownr",
         "postAdForm.description": description,
-        "image_paths": ["../../../iphonePics/" + color + "/1.JPG", "../../../iphonePics/" + color + "/2.JPG"]
+        "image_paths": ["../../../../iphonePics/" + color + "/1.JPG", "../../../../iphonePics/" + color + "/2.JPG"]
     }
 
     return rObj
@@ -106,10 +106,12 @@ function writeAd(ad, forSale, dbBranchName, kijijiAccounts) {
 
     let randomColorIndex = random.int(min = 0, max = forSale[0].colors.length - 1)
     let randomTypeIndex = random.int(min = 0, max = forSale[0].types.length - 1)
+    let randomConditionIndex = random.int(min = 0, max = forSale[0].condition.length - 1)
 
     let color = forSale[0].colors[randomColorIndex]
     let type = forSale[0].types[randomTypeIndex]
-    let title = "Unlocked " + type.name + " " + color + " 100% battery health"
+    let condition = forSale[0].condition[randomConditionIndex]
+    let title = "Unlocked " + type.name + " " + color + " " + condition + " condition"
     let priceAmount = type.price
     let phoneNumber = forSale[0].phoneNumber
     let description = "call (438) 793-1474"
