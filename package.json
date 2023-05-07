@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "js-yaml": "^3.13.1",
-    "kijiji-scraper": "^5.0.1",
+    "kijiji-scraper": "^5.1.1",
     "lowdb": "^1.0.0",
     "merge-json": "0.1.0-b.3",
     "node-yaml": "^4.0.1",
