@@ -19,6 +19,6 @@
     "node-yaml": "^4.0.1",
     "random": "^2.1.1",
     "seedrandom": "^3.0.3",
-    "write-yaml-file": "^3.0.1"
+    "write-yaml-file": "^5.0.0"
   }
 }
